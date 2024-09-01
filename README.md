@@ -30,3 +30,9 @@ For more details, you can find the project in the repository.
 
 ### streamlit link : https://labtop-agijj3a5z83uoly3okkegk.streamlit.app/
 ### Presentation link : [Insert Presentation Link Here]
+
+
+اسامه الحربي 
+سامر غربي 
+عبد العزيز الكثيري 
+وديعه البحيري 
