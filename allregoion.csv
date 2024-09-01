@@ -1,0 +1,1425 @@
+,Hotel_Name,Rating,Price,region,Airport_Shuttle,Business_Centre,Facilities,Fitness_Centre,Restaurant,Room_Service,Spa,Swimming_Pool,Wellness_Centre
+0,"Radisson Blu Hotel, Jeddah Al Salam",8.7,540.0,Jeddah,0,0,0,0,0,0,0,1,0
+1,Holiday Inn JEDDAH GATEWAY,8.4,614.0,Jeddah,0,0,0,0,0,0,0,1,0
+2,Golden New Palace,8.2,193.0,Jeddah,0,0,0,0,0,0,1,0,1
+3,Habitat Hotel All Suites - Jeddah,7.4,375.0,Jeddah,0,0,0,0,1,0,0,1,0
+4,Donatello Hotel Jeddah,8.1,472.0,Jeddah,0,0,0,0,0,0,0,1,0
+5,Aster Hotel,7.5,307.0,Jeddah,0,0,0,0,0,0,0,0,0
+6,Iridium 70 Hotel,8.9,335.0,Jeddah,0,0,0,0,0,0,0,1,0
+7,Boudl Palestine,7.4,298.0,Jeddah,0,0,0,0,0,1,0,0,0
+8,Movenpick Hotel Tahlia Jeddah,8.5,767.0,Jeddah,0,0,0,0,0,0,0,1,0
+9,Shada Hotel Shati,8.8,468.0,Jeddah,0,0,0,0,0,0,0,1,0
+10,Shangri-La Jeddah,8.3,1883.0,Jeddah,0,0,0,0,0,0,0,1,0
+11,Al Eairy Furnished Apartments Jeddah 4,4.4,148.0,Jeddah,0,0,0,0,0,0,0,0,0
+12,"Radisson Blu Hotel, Jeddah Plaza",8.2,385.0,Jeddah,0,0,0,0,0,0,0,1,0
+13,Waldorf Astoria Jeddah - Qasr Al Sharq,9.2,1630.0,Jeddah,0,0,0,0,1,0,0,1,0
+14,Wow Jeddah Hotel,8.4,211.0,Jeddah,0,0,0,0,0,0,0,1,0
+15,Ewaa Express Hotel - Al Shati,8.6,353.0,Jeddah,0,0,0,0,0,0,1,0,1
+16,Renz Hotel,6.9,172.0,Jeddah,0,0,0,0,1,1,0,0,0
+17,OYO 589 Lavina House,5.5,141.0,Jeddah,0,0,0,0,0,0,0,0,0
+18,Jeddah Hilton,8.0,998.0,Jeddah,0,0,0,0,0,0,0,1,0
+19,Narcissus Resort & spa Obhur Jeddah,8.3,1500.0,Jeddah,0,0,0,0,0,0,0,1,0
+20,Four Points by Sheraton Jeddah Corniche,8.2,495.0,Jeddah,0,0,0,0,0,0,0,1,0
+21,Mövenpick Jeddah,7.6,316.0,Jeddah,0,0,0,0,1,0,0,1,0
+22,Joudyan Jeddah Red Sea Mall,8.1,847.0,Jeddah,0,0,0,0,1,0,1,0,1
+23,The Ritz-Carlton Jeddah,9.0,1227.0,Jeddah,0,0,0,0,1,0,0,0,0
+24,"The Hotel Galleria Jeddah, Curio Collection by Hilton",8.4,799.0,Jeddah,0,0,0,0,1,0,0,0,0
+25,Aster Hotel,7.5,283.0,Jeddah,0,0,0,0,0,0,0,0,0
+27,Movenpick Hotel Tahlia Jeddah,8.5,638.0,Jeddah,0,0,0,0,0,0,0,1,0
+30,Sheraton Jeddah Hotel,7.7,650.0,Jeddah,0,0,0,0,1,0,0,0,0
+31,Boudl Quraish,8.6,355.0,Jeddah,0,0,0,0,0,0,0,1,0
+32,ibis Jeddah City Center,8.4,237.0,Jeddah,0,0,0,0,1,0,0,0,0
+33,Narcissus 88 Boutique Hotel Jeddah,9.1,1086.0,Jeddah,0,0,0,0,0,0,0,1,0
+34,Boudl Al Tahlia,8.4,338.0,Jeddah,0,0,0,0,0,0,0,1,0
+35,Issham Hotel,6.6,423.0,Jeddah,0,0,0,0,0,0,1,0,1
+36,Tu Jardin Al Harmain Jeddah,8.2,259.0,Jeddah,0,0,0,0,0,1,0,0,0
+37,Seafront Luxury Suites Jeddah Corniche,7.9,874.0,Jeddah,0,0,0,0,0,1,0,0,0
+38,Rosemond Hotel,8.3,339.0,Jeddah,0,0,0,0,0,0,0,1,0
+39,Spectrums Al Salamah,8.1,499.0,Jeddah,0,0,0,0,0,0,0,1,0
+40,Marlo Hotel,8.6,372.0,Jeddah,0,0,0,0,0,0,0,1,0
+41,Orans Suites 4,7.8,550.0,Jeddah,0,0,0,0,0,0,0,1,0
+42,Diwan Residence Hotel Alnaeem,8.4,271.0,Jeddah,0,0,0,0,1,0,0,0,0
+43,PRIMOTEL Suites Al Salamah,8.4,222.0,Jeddah,0,0,0,0,0,1,0,0,0
+44,Aquila Hotel,8.2,332.0,Jeddah,0,0,0,0,0,0,0,1,0
+45,فندق ميلانا milana hotel,8.0,237.0,Jeddah,0,0,0,0,0,0,0,1,0
+46,Qamar Hotel Jeddah,8.4,372.0,Jeddah,0,0,0,0,0,0,0,1,0
+47,Signature Hotel,8.1,330.0,Jeddah,0,0,0,0,0,0,0,1,0
+48,Spectrums Sari Jeddah,8.0,600.0,Jeddah,0,0,0,0,0,0,0,1,0
+49,The Apartments,7.9,759.0,Jeddah,0,0,0,0,0,0,0,1,0
+50,Savoye Hotel,8.8,278.0,Jeddah,0,0,0,1,0,1,0,0,0
+51,Mirnian Hotel,8.6,266.0,Jeddah,0,0,0,0,1,0,0,0,0
+52,Jeddah Marriott Hotel Madinah Road,8.8,850.0,Jeddah,0,0,0,0,0,0,0,1,0
+53,Prime Hotel Al Hamra Jeddah,8.0,330.0,Jeddah,0,0,0,0,0,0,0,1,0
+54,Mercure Jeddah Al Hamra,7.6,464.0,Jeddah,0,0,0,0,1,0,0,0,0
+55,Happy Beach Basateen,6.7,170.0,Jeddah,0,0,0,0,1,0,0,0,0
+56,The Venue Jeddah Corniche,7.6,612.0,Jeddah,0,0,0,0,0,0,0,1,0
+57,Rosewood Jeddah,8.7,1200.0,Jeddah,0,0,0,0,0,0,0,1,0
+58,Platinum Suites Jeddah,8.6,372.0,Jeddah,0,0,0,0,1,0,0,1,0
+60,Holiday Inn JEDDAH GATEWAY,8.4,598.0,Jeddah,0,0,0,0,0,0,0,1,0
+62,Renz Hotel,6.9,132.0,Jeddah,0,0,0,0,1,1,0,0,0
+65,Al Eairy Furnished Apartments Jeddah 5,4.9,148.0,Jeddah,0,0,0,0,0,0,0,0,0
+66,Loren Suites,8.3,219.0,Jeddah,0,0,0,0,1,0,0,0,0
+67,Narcissus Resort & spa Obhur Jeddah,8.3,1724.0,Jeddah,0,0,0,0,0,0,0,1,0
+68,Four Points by Sheraton Jeddah Corniche,8.2,575.0,Jeddah,0,0,0,0,0,0,0,1,0
+69,Warwick Hotel Jeddah,8.4,327.0,Jeddah,0,0,0,0,0,0,0,1,0
+71,"Radisson Blu Hotel, Jeddah Al Salam",8.7,527.0,Jeddah,0,0,0,0,0,0,0,1,0
+72,Holiday Inn JEDDAH GATEWAY,8.4,600.0,Jeddah,0,0,0,0,0,0,0,1,0
+75,Donatello Hotel Jeddah,8.1,402.0,Jeddah,0,0,0,0,0,0,0,1,0
+82,Wow Jeddah Hotel,8.4,208.0,Jeddah,0,0,0,0,0,0,0,1,0
+83,Ewaa Express Hotel - Al Shati,8.6,365.0,Jeddah,0,0,0,0,0,0,1,0,1
+90,Warwick Hotel Jeddah,8.4,304.0,Jeddah,0,0,0,0,0,0,0,1,0
+92,InterContinental JEDDAH,7.7,492.0,Jeddah,0,0,1,0,0,0,0,0,0
+94,Habitat Hotel All Suites - Jeddah,7.4,366.0,Jeddah,0,0,0,0,1,0,0,1,0
+96,Aster Hotel,7.5,269.0,Jeddah,0,0,0,0,0,0,0,0,0
+97,Iridium 70 Hotel,8.9,336.0,Jeddah,0,0,0,0,0,0,0,1,0
+99,Movenpick Hotel Tahlia Jeddah,8.5,769.0,Jeddah,0,0,0,0,0,0,0,1,0
+104,Grand Park Hotel,7.9,357.0,Jeddah,0,0,0,0,0,0,0,1,0
+105,Waldorf Astoria Jeddah - Qasr Al Sharq,9.2,1501.0,Jeddah,0,0,0,0,1,0,0,1,0
+107,Ewaa Express Hotel - Al Shati,8.6,358.0,Jeddah,0,0,0,0,0,0,1,0,1
+113,Narcissus Resort & spa Obhur Jeddah,8.3,1398.0,Jeddah,0,0,0,0,0,0,0,1,0
+115,Warwick Hotel Jeddah,8.4,311.0,Jeddah,0,0,0,0,0,0,0,1,0
+117,Holiday Inn JEDDAH GATEWAY,8.4,641.0,Jeddah,0,0,0,0,0,0,0,1,0
+121,Iridium 70 Hotel,8.9,340.0,Jeddah,0,0,0,0,0,0,0,1,0
+123,Movenpick Hotel Tahlia Jeddah,8.5,757.0,Jeddah,0,0,0,0,0,0,0,1,0
+125,Shangri-La Jeddah,8.3,2003.0,Jeddah,0,0,0,0,0,0,0,1,0
+129,Ewaa Express Hotel - Al Shati,8.6,356.0,Jeddah,0,0,0,0,0,0,1,0,1
+134,Narcissus Resort & spa Obhur Jeddah,8.3,1512.0,Jeddah,0,0,0,0,0,0,0,1,0
+136,Warwick Hotel Jeddah,8.4,365.0,Jeddah,0,0,0,0,0,0,0,1,0
+137,Mövenpick Jeddah,7.6,359.0,Jeddah,0,0,0,0,1,0,0,1,0
+139,Holiday Inn JEDDAH GATEWAY,8.4,615.0,Jeddah,0,0,0,0,0,0,0,1,0
+144,Boudl Palestine,7.4,251.0,Jeddah,0,0,0,0,0,1,0,0,0
+145,Movenpick Hotel Tahlia Jeddah,8.5,668.0,Jeddah,0,0,0,0,0,0,0,1,0
+147,Boudl Quraish,8.6,331.0,Jeddah,0,0,0,0,0,0,0,1,0
+150,Wow Jeddah Hotel,8.4,213.0,Jeddah,0,0,0,0,0,0,0,1,0
+151,Ewaa Express Hotel - Al Shati,8.6,768.0,Jeddah,0,0,0,0,0,0,1,0,1
+153,OYO 589 Lavina House,5.5,151.0,Jeddah,0,0,0,0,0,0,0,0,0
+154,Jeddah Hilton,8.0,1026.0,Jeddah,0,0,0,0,0,0,0,1,0
+157,Narcissus Resort & spa Obhur Jeddah,8.3,1478.0,Jeddah,0,0,0,0,0,0,0,1,0
+161,"Radisson Blu Hotel, Jeddah Al Salam",8.7,626.0,Jeddah,0,0,0,0,0,0,0,1,0
+167,Iridium 70 Hotel,8.9,339.0,Jeddah,0,0,0,0,0,0,0,1,0
+169,Movenpick Hotel Tahlia Jeddah,8.5,758.0,Jeddah,0,0,0,0,0,0,0,1,0
+172,Hyatt House Jeddah Sari Street,8.4,492.0,Jeddah,0,0,0,0,0,0,0,1,0
+175,Grand Park Hotel,7.9,341.0,Jeddah,0,0,0,0,0,0,0,1,0
+183,Narcissus Resort & spa Obhur Jeddah,8.3,1632.0,Jeddah,0,0,0,0,0,0,0,1,0
+187,Platinum Suites Jeddah,8.6,266.0,Jeddah,0,0,0,0,1,0,0,1,0
+189,Holiday Inn JEDDAH GATEWAY,8.4,613.0,Jeddah,0,0,0,0,0,0,0,1,0
+195,Boudl Palestine,7.4,255.0,Jeddah,0,0,0,0,0,1,0,0,0
+197,Shada Hotel Shati,8.8,482.0,Jeddah,0,0,0,0,0,0,0,1,0
+199,Waldorf Astoria Jeddah - Qasr Al Sharq,9.2,1505.0,Jeddah,0,0,0,0,1,0,0,1,0
+203,OYO 589 Lavina House,5.5,142.0,Jeddah,0,0,0,0,0,0,0,0,0
+219,ibis Jeddah City Center,8.4,271.0,Jeddah,0,0,0,0,1,0,0,0,0
+220,Boudl Al Tahlia,8.4,334.0,Jeddah,0,0,0,0,0,0,0,1,0
+221,Rosemond Hotel,8.3,354.0,Jeddah,0,0,0,0,0,0,0,1,0
+223,Crowne Plaza - Jeddah Al Salam,9.2,675.0,Jeddah,0,0,0,0,0,0,0,1,0
+225,OYO 589 Lavina House,5.5,198.0,Jeddah,0,0,0,0,0,0,0,0,0
+230,Warwick Hotel Jeddah,8.4,388.0,Jeddah,0,0,0,0,0,0,0,1,0
+233,Platinum Suites Jeddah,8.6,366.0,Jeddah,0,0,0,0,1,0,0,1,0
+241,Movenpick Hotel Tahlia Jeddah,8.5,641.0,Jeddah,0,0,0,0,0,0,0,1,0
+245,Ewaa Express Hotel - Al Shati,8.6,372.0,Jeddah,0,0,0,0,0,0,1,0,1
+248,Jeddah Hilton,8.0,1316.0,Jeddah,0,0,0,0,0,0,0,1,0
+255,Casablanca Grand Hotel,9.2,524.0,Jeddah,0,0,0,0,1,0,0,1,0
+256,Redwaves Hotel,9.3,589.0,Jeddah,0,0,0,0,0,0,0,1,0
+257,Comfort Hotel Jeddah King Road,8.8,417.0,Jeddah,0,0,0,0,0,1,0,0,0
+258,OYO 597 Al Tamayoz Al Raqi,4.2,173.0,Jeddah,0,0,0,0,0,0,0,0,0
+259,Blue Diamond Hotel,8.8,409.0,Jeddah,0,0,0,0,0,0,0,1,0
+260,Areen Al Naeem,7.8,193.0,Jeddah,0,0,0,0,0,0,0,1,0
+261,Bram Hotel Suites,8.0,277.0,Jeddah,0,0,0,0,1,0,0,0,0
+262,Centro Salama by Rotana,8.1,437.0,Jeddah,0,0,0,0,0,0,0,1,0
+263,Celine Al Motamaiza Furnished Apartment,8.6,201.0,Jeddah,0,0,0,0,0,0,0,1,0
+264,Ozone Hotel,6.8,198.0,Jeddah,0,0,0,0,1,0,0,0,0
+265,Mercure Jeddah Al Hamra,7.6,366.0,Jeddah,0,0,0,0,1,0,0,0,0
+266,Lavent Park,8.0,390.0,Jeddah,0,0,1,0,0,0,0,0,0
+267,Park Town,8.8,285.0,Jeddah,0,0,0,0,0,1,0,0,0
+272,Narcissus Resort & spa Obhur Jeddah,8.3,1466.0,Jeddah,0,0,0,0,0,0,0,1,0
+274,Warwick Hotel Jeddah,8.4,312.0,Jeddah,0,0,0,0,0,0,0,1,0
+277,Loren Suites Corniche,7.3,315.0,Jeddah,0,0,0,0,0,1,0,0,0
+278,Mirnian Hotel,8.6,269.0,Jeddah,0,0,0,0,1,0,0,0,0
+280,Ozone Hotel,6.8,209.0,Jeddah,0,0,0,0,1,0,0,0,0
+281,Paradise Inn Jeddah~,8.1,248.0,Jeddah,0,0,0,0,0,0,0,1,0
+282,Prime Hotel Al Hamra Jeddah,8.0,371.0,Jeddah,0,0,0,0,0,0,0,1,0
+283,Mercure Jeddah Al Hamra,7.6,360.0,Jeddah,0,0,0,0,1,0,0,0,0
+284,The Venue Jeddah Corniche,7.6,617.0,Jeddah,0,0,0,0,0,0,0,1,0
+285,Rosewood Jeddah,8.7,1280.0,Jeddah,0,0,0,0,0,0,0,1,0
+286,Platinum Suites Jeddah,8.6,290.0,Jeddah,0,0,0,0,1,0,0,1,0
+287,"Radisson Blu Hotel, Jeddah Al Salam",8.7,585.0,Jeddah,0,0,0,0,0,0,0,1,0
+288,Holiday plus Al Salama,6.6,188.0,Jeddah,0,1,0,0,0,0,0,0,0
+289,Frontel Jeddah Hotel Altahlia,8.1,373.0,Jeddah,0,0,0,0,1,0,0,0,0
+290,SHIRVAN Hotel City Yard Jeddah,9.1,1025.0,Jeddah,0,0,0,0,0,0,0,1,0
+291,Ruve Jeddah Hotel,7.8,339.0,Jeddah,0,0,0,0,0,0,0,1,0
+292,Mirada Purple - Zahra,8.2,192.0,Jeddah,0,0,0,0,0,1,0,0,0
+293,Holiday Inn JEDDAH CORNICHE,8.5,620.0,Jeddah,0,0,0,0,0,0,0,1,0
+294,Ramada by Wyndham Continental Jeddah,7.6,564.0,Jeddah,0,0,0,0,1,1,0,0,0
+295,GOLDEN NEW UMU ALQURAA Hotel,8.4,237.0,Jeddah,0,0,0,0,0,0,1,0,1
+296,Merya Hotel,8.7,339.0,Jeddah,0,0,1,0,0,0,0,0,0
+297,Mora Hotel By Pioneer,7.8,404.0,Jeddah,0,0,0,0,0,0,0,1,0
+313,The Venue Jeddah Corniche,7.6,616.0,Jeddah,0,0,0,0,0,0,0,1,0
+315,Platinum Suites Jeddah,8.6,283.0,Jeddah,0,0,0,0,1,0,0,1,0
+317,Jasmine Garden Hotel,9.1,330.0,Jeddah,0,0,0,0,0,0,0,1,0
+318,Holiday plus Al Salama,6.6,201.0,Jeddah,0,1,0,0,0,0,0,0,0
+319,Frontel Jeddah Hotel Altahlia,8.1,481.0,Jeddah,0,0,0,0,1,0,0,0,0
+321,Ruve Jeddah Hotel,7.8,334.0,Jeddah,0,0,0,0,0,0,0,1,0
+322,Mirada Purple - Zahra,8.2,199.0,Jeddah,0,0,0,0,0,1,0,0,0
+323,Ramada by Wyndham Continental Jeddah,7.6,283.0,Jeddah,0,0,0,0,1,1,0,0,0
+324,Clarion Hotel Jeddah Airport,8.9,453.0,Jeddah,0,0,0,0,0,0,0,1,0
+326,OYO 582 Al Tamayoz Al Raqi Al Salamah,5.0,162.0,Jeddah,0,0,0,0,0,1,0,0,0
+327,Sarwat Park Hotel Jeddah,8.0,418.0,Jeddah,0,0,0,0,1,0,0,0,0
+329,Rosemond Hotel,8.3,346.0,Jeddah,0,0,0,0,0,0,0,1,0
+330,Hawadah Hotel,7.1,251.0,Jeddah,0,0,0,0,0,0,0,1,0
+332,Rahhal Al Bahr Hotel Apartment,8.5,225.0,Jeddah,0,0,0,0,0,1,0,0,0
+333,Swiss Blue Hotel,8.0,509.0,Jeddah,0,0,0,0,1,0,0,0,0
+335,City Center Plaza Aparthotel,6.6,220.0,Jeddah,0,0,0,0,0,0,0,1,0
+337,OYO 589 Lavina House,5.5,146.0,Jeddah,0,0,0,0,0,0,0,0,0
+347,Aster Hotel,7.5,286.0,Jeddah,0,0,0,0,0,0,0,0,0
+350,Movenpick Hotel Tahlia Jeddah,8.5,752.0,Jeddah,0,0,0,0,0,0,0,1,0
+354,Boudl Quraish,8.6,549.0,Jeddah,0,0,0,0,0,0,0,1,0
+355,Sarwat Park Hotel Jeddah,8.0,366.0,Jeddah,0,0,0,0,1,0,0,0,0
+357,Rosemond Hotel,8.3,345.0,Jeddah,0,0,0,0,0,0,0,1,0
+360,Marlo Hotel,8.6,369.0,Jeddah,0,0,0,0,0,0,0,1,0
+362,Diwan Residence Hotel Alnaeem,8.4,267.0,Jeddah,0,0,0,0,1,0,0,0,0
+363,PRIMOTEL Suites Al Salamah,8.4,195.0,Jeddah,0,0,0,0,0,1,0,0,0
+364,Carawan Jeddah Hotel,7.7,208.0,Jeddah,0,0,0,0,0,0,0,0,0
+366,OYO 589 Lavina House,5.5,144.0,Jeddah,0,0,0,0,0,0,0,0,0
+370,Narcissus Resort & spa Obhur Jeddah,8.3,1711.0,Jeddah,0,0,0,0,0,0,0,1,0
+380,Iridium 70 Hotel,8.9,337.0,Jeddah,0,0,0,0,0,0,0,1,0
+381,Boudl Palestine,7.4,277.0,Jeddah,0,0,0,0,0,1,0,0,0
+382,Movenpick Hotel Tahlia Jeddah,8.5,770.0,Jeddah,0,0,0,0,0,0,0,1,0
+384,Hyatt House Jeddah Sari Street,8.4,489.0,Jeddah,0,0,0,0,0,0,0,1,0
+387,Grand Park Hotel,7.9,399.0,Jeddah,0,0,0,0,0,0,0,1,0
+388,Waldorf Astoria Jeddah - Qasr Al Sharq,9.2,1631.0,Jeddah,0,0,0,0,1,0,0,1,0
+389,Wow Jeddah Hotel,8.4,267.0,Jeddah,0,0,0,0,0,0,0,1,0
+408,Movenpick Hotel Tahlia Jeddah,8.5,768.0,Jeddah,0,0,0,0,0,0,0,1,0
+410,Hyatt House Jeddah Sari Street,8.4,481.0,Jeddah,0,0,0,0,0,0,0,1,0
+427,Habitat Hotel All Suites - Jeddah,7.4,354.0,Jeddah,0,0,0,0,1,0,0,1,0
+435,"Radisson Blu Hotel, Jeddah Plaza",8.2,425.0,Jeddah,0,0,0,0,0,0,0,1,0
+450,Paradise Inn Jeddah~,8.1,273.0,Jeddah,0,0,0,0,0,0,0,1,0
+451,Mercure Jeddah Al Hamra,7.6,367.0,Jeddah,0,0,0,0,1,0,0,0,0
+452,Happy Beach Basateen,6.7,189.0,Jeddah,0,0,0,0,1,0,0,0,0
+455,Holiday Inn JEDDAH GATEWAY,8.4,612.0,Jeddah,0,0,0,0,0,0,0,1,0
+457,Habitat Hotel All Suites - Jeddah,7.4,359.0,Jeddah,0,0,0,0,1,0,0,1,0
+458,Donatello Hotel Jeddah,8.1,449.0,Jeddah,0,0,0,0,0,0,0,1,0
+465,Al Hyatt jeddah continental hotel,7.4,250.0,Jeddah,0,0,0,0,1,1,0,0,0
+474,Shangri-La Jeddah,8.3,2242.0,Jeddah,0,0,0,0,0,0,0,1,0
+477,Narcissus 88 Boutique Hotel Jeddah,9.1,1137.0,Jeddah,0,0,0,0,0,0,0,1,0
+487,Narcissus Resort & spa Obhur Jeddah,8.3,1455.0,Jeddah,0,0,0,0,0,0,0,1,0
+491,Platinum Suites Jeddah,8.6,289.0,Jeddah,0,0,0,0,1,0,0,1,0
+493,Holiday Inn JEDDAH GATEWAY,8.4,685.0,Jeddah,0,0,0,0,0,0,0,1,0
+495,Habitat Hotel All Suites - Jeddah,7.4,356.0,Jeddah,0,0,0,0,1,0,0,1,0
+504,Waldorf Astoria Jeddah - Qasr Al Sharq,9.2,1632.0,Jeddah,0,0,0,0,1,0,0,1,0
+519,Holiday Inn JEDDAH GATEWAY,8.4,601.0,Jeddah,0,0,0,0,0,0,0,1,0
+532,Ewaa Express Hotel - Al Shati,8.6,366.0,Jeddah,0,0,0,0,0,0,1,0,1
+534,Paradise Inn Jeddah~,8.1,274.0,Jeddah,0,0,0,0,0,0,0,1,0
+535,Prime Hotel Al Hamra Jeddah,8.0,475.0,Jeddah,0,0,0,0,0,0,0,1,0
+536,Happy Beach Basateen,6.7,209.0,Jeddah,0,0,0,0,1,0,0,0,0
+538,Rosewood Jeddah,8.7,1600.0,Jeddah,0,0,0,0,0,0,0,1,0
+539,Platinum Suites Jeddah,8.6,360.0,Jeddah,0,0,0,0,1,0,0,1,0
+543,Merya Hotel,8.7,406.0,Jeddah,0,0,1,0,0,0,0,0,0
+545,Sunset Jeddah,9.4,417.0,Jeddah,0,0,0,0,0,0,0,1,0
+546,Hyatt House Jeddah Sari Street,8.4,722.0,Jeddah,0,0,0,0,0,0,0,1,0
+552,Ewaa Express Hotel - Al Shati,8.6,390.0,Jeddah,0,0,0,0,0,0,1,0,1
+553,Continent Al Ertiqaa Hotel,8.9,3186.0,Jeddah,0,0,0,0,1,0,0,0,0
+554,Al Balad Hospitality,9.3,2300.0,Jeddah,0,0,0,0,1,0,0,0,0
+555,Hayat Heraa Hotel,8.3,262.0,Jeddah,0,0,0,0,1,0,0,0,0
+556,Taj Jeddah Hotel Apartment,8.9,380.0,Jeddah,0,0,0,0,0,0,0,1,0
+557,Kyona Obhur - كيونا ابحر,8.1,475.0,Jeddah,0,0,0,0,0,0,0,1,0
+558,Gladiolus Hotel,8.6,392.0,Jeddah,0,0,0,0,0,0,0,1,0
+559,Tu Jardin Al Marwa,8.0,224.0,Jeddah,0,0,0,0,0,1,0,0,0
+560,Nuzul Shada Hotel,8.5,302.0,Jeddah,0,0,0,0,0,0,0,0,0
+561,Al Farhan Suites Al Hamra-Jeddah,6.9,201.0,Jeddah,0,0,0,0,1,0,0,0,0
+564,Jeddah Hilton,8.0,1950.0,Jeddah,0,0,0,0,0,0,0,1,0
+571,Mercure Jeddah Al Hamra,7.6,330.0,Jeddah,0,0,0,0,1,0,0,0,0
+572,The Venue Jeddah Corniche,7.6,613.0,Jeddah,0,0,0,0,0,0,0,1,0
+577,Habitat Hotel All Suites - Jeddah,7.4,367.0,Jeddah,0,0,0,0,1,0,0,1,0
+582,GOLDEN NEW UMU ALQURAA Hotel,8.4,245.0,Jeddah,0,0,0,0,0,0,1,0,1
+584,Mora Hotel By Pioneer,7.8,260.0,Jeddah,0,0,0,0,0,0,0,1,0
+596,Donatello Hotel Jeddah,8.1,450.0,Jeddah,0,0,0,0,0,0,0,1,0
+597,Aster Hotel,7.5,287.0,Jeddah,0,0,0,0,0,0,0,0,0
+600,Movenpick Hotel Tahlia Jeddah,8.5,765.0,Jeddah,0,0,0,0,0,0,0,1,0
+601,Shada Hotel Shati,8.8,474.0,Jeddah,0,0,0,0,0,0,0,1,0
+606,Jeddah Hilton,8.0,1540.0,Jeddah,0,0,0,0,0,0,0,1,0
+613,InterContinental JEDDAH,7.7,725.0,Jeddah,0,0,1,0,0,0,0,0,0
+624,Narcissus 88 Boutique Hotel Jeddah,9.1,1171.0,Jeddah,0,0,0,0,0,0,0,1,0
+626,Sarwat Park Hotel Jeddah,8.0,343.0,Jeddah,0,0,0,0,1,0,0,0,0
+640,Holiday Inn JEDDAH GATEWAY,8.4,627.0,Jeddah,0,0,0,0,0,0,0,1,0
+646,Movenpick Hotel Tahlia Jeddah,8.5,759.0,Jeddah,0,0,0,0,0,0,0,1,0
+653,Ewaa Express Hotel - Al Shati,8.6,386.0,Jeddah,0,0,0,0,0,0,1,0,1
+656,Jeddah Hilton,8.0,1191.0,Jeddah,0,0,0,0,0,0,0,1,0
+672,Narcissus 88 Boutique Hotel Jeddah,9.1,1175.0,Jeddah,0,0,0,0,0,0,0,1,0
+673,فندق باليت ماس الفاخر Palette Luxury MAS Hotel,7.0,317.0,Jeddah,0,0,0,0,0,0,0,1,0
+674,Tu Jardin Al Harmain Jeddah,8.2,280.0,Jeddah,0,0,0,0,0,1,0,0,0
+675,Sarwat Park Hotel Jeddah,8.0,373.0,Jeddah,0,0,0,0,1,0,0,0,0
+676,Seafront Luxury Suites Jeddah Corniche,7.9,897.0,Jeddah,0,0,0,0,0,1,0,0,0
+677,Rosemond Hotel,8.3,344.0,Jeddah,0,0,0,0,0,0,0,1,0
+680,Holiday Inn AL KHOBAR,7.7,353.0,Khobar,0,0,0,0,1,1,0,0,0
+681,Aloft Dhahran Hotel,8.4,423.0,Khobar,1,0,0,0,0,0,0,0,0
+682,Ramada Encore by Wyndham Al Khobar Olaya,7.5,244.0,Khobar,0,0,0,0,1,0,0,0,0
+683,Golden Bujari Hotel Al Dhahran,7.6,285.0,Khobar,0,0,0,0,1,0,0,0,0
+684,Grand Mayral Hotel,7.7,239.0,Khobar,0,0,0,0,1,0,0,0,0
+685,Centro Corniche Al Khobar by Rotana,7.9,393.0,Khobar,0,0,0,0,0,0,0,1,0
+686,Boudl Gardenia Resort,8.3,256.0,Khobar,0,0,0,0,0,0,0,1,0
+687,The Proud Hotel,8.8,258.0,Khobar,0,0,0,0,0,0,0,1,0
+688,Somerset Downtown Al Khobar,8.8,545.0,Khobar,0,0,0,0,0,0,0,1,0
+689,Ascott Corniche Al Khobar,8.1,566.0,Khobar,0,0,0,0,0,0,0,1,0
+690,voco Al Khobar an IHG Hotel,8.9,652.0,Khobar,0,0,0,0,0,0,0,1,0
+691,Kempinski Al Othman Hotel Al Khobar,8.6,770.0,Khobar,0,0,0,0,0,0,0,1,0
+692,Zara Continental Hotel Al Khobar,7.2,302.0,Khobar,0,0,0,0,1,0,0,0,0
+693,Mirot Hotel,8.9,391.0,Khobar,0,0,0,0,0,0,1,0,1
+694,"Seashore Resort, Al Khobar, Tahlia",10.0,415.0,Khobar,0,0,0,0,1,0,0,1,0
+695,Habitat Hotel All Suites Al Khobar,7.1,276.0,Khobar,0,0,0,0,0,0,0,1,0
+696,Grandeur East,7.4,209.0,Khobar,0,0,0,0,0,0,0,1,0
+697,Shally Residence 3,7.5,194.0,Khobar,0,0,0,0,1,0,0,0,0
+698,تمايا الخبر Tamaya Alkhobar,7.5,554.0,Khobar,0,0,0,0,0,0,0,1,0
+699,Terrace View 1 - Hotel Apartments,8.2,272.0,Khobar,0,0,1,0,0,0,0,0,0
+700,Eliana Hotel,7.5,262.0,Khobar,0,0,0,0,1,1,0,0,0
+701,Dream Residence Khobar,8.9,312.0,Khobar,0,0,0,0,0,0,0,1,0
+702,Rawabi Al Khobar Hotel,7.2,233.0,Khobar,0,0,0,1,0,0,1,0,1
+703,Centro Corniche Al Khobar by Rotana,7.9,364.0,Khobar,0,0,0,0,0,0,0,1,0
+704,Boudl Gardenia Resort,8.3,239.0,Khobar,0,0,0,0,0,0,0,1,0
+705,HDB Al Khobar Resort & Spa,7.1,749.0,Khobar,0,0,0,0,0,0,0,1,0
+706,Braira Al Azizya Resort and Hotel,8.9,919.0,Khobar,0,0,0,0,0,1,0,0,0
+707,Mövenpick Beach Resort Al Khobar,6.9,1700.0,Khobar,0,0,0,0,1,0,0,1,0
+708,Holiday Inn & Suites AL KHOBAR,8.5,424.0,Khobar,0,0,0,0,0,0,0,1,0
+709,Sofitel Al Khobar the Corniche,7.9,517.0,Khobar,0,0,0,0,0,0,0,1,0
+710,Grand Hyatt AL Khobar,8.9,696.0,Khobar,0,0,0,0,0,0,0,1,0
+712,Golden Bujari Hotel Al Dhahran,7.6,224.0,Khobar,0,0,0,0,1,0,0,0,0
+713,Warwick Al Khobar,8.2,517.0,Khobar,0,0,0,0,0,0,0,1,0
+714,Radisson Blu Residence Dhahran,8.5,358.0,Khobar,0,0,0,0,0,0,0,1,0
+715,Grand Mayral Hotel,7.7,259.0,Khobar,0,0,0,0,1,0,0,0,0
+716,Carlton Al Moaibed Hotel,7.1,253.0,Khobar,0,0,0,0,0,0,0,1,0
+717,Al Gosaibi Hotel,7.5,278.0,Khobar,0,0,0,0,1,0,0,0,0
+718,Centro Corniche Al Khobar by Rotana,7.9,429.0,Khobar,0,0,0,0,0,0,0,1,0
+721,Braira Al Azizya Resort and Hotel,8.9,1121.0,Khobar,0,0,0,0,0,1,0,0,0
+727,Zara Continental Hotel Al Khobar,7.2,300.0,Khobar,0,0,0,0,1,0,0,0,0
+728,Crowne Plaza AL KHOBAR,7.6,324.0,Khobar,0,0,0,0,0,0,1,0,1
+729,Park Inn By Radisson Al Khobar,7.3,245.0,Khobar,0,0,0,0,1,0,0,0,0
+730,Hilton Garden Inn Al Khobar,8.3,301.0,Khobar,0,0,0,0,0,0,0,1,0
+731,Le Méridien Al Khobar,8.4,600.0,Khobar,0,0,0,0,1,0,0,1,0
+732,Movenpick Hotel Al Khobar,8.3,737.0,Khobar,0,0,0,0,1,0,0,0,0
+733,Ramada by Wyndham Al Khobar King Abdullah Street,7.1,324.0,Khobar,0,0,0,0,1,1,0,0,0
+734,Mercure Al Khobar Hotel,6.7,328.0,Khobar,0,0,0,0,1,0,0,1,0
+735,Golden Tulip Al Khobar Suites,6.8,269.0,Khobar,0,0,0,0,1,1,0,0,0
+736,Mkani Apartment,6.9,156.0,Khobar,0,0,0,0,0,1,0,0,0
+738,Arjan Qurtuba Serviced Apartments,7.8,223.0,Khobar,0,0,1,0,0,0,0,0,0
+739,Warwick Al Khobar,8.2,567.0,Khobar,0,0,0,0,0,0,0,1,0
+741,Normas Hotel,8.2,262.0,Khobar,0,0,0,0,1,0,0,0,0
+743,Boudl Gardenia Resort,8.3,287.0,Khobar,0,0,0,0,0,0,0,1,0
+744,HDB Al Khobar Resort & Spa,7.1,963.0,Khobar,0,0,0,0,0,0,0,1,0
+745,Braira Al Azizya Resort and Hotel,8.9,857.0,Khobar,0,0,0,0,0,1,0,0,0
+746,Mövenpick Beach Resort Al Khobar,6.9,1318.0,Khobar,0,0,0,0,1,0,0,1,0
+748,Sofitel Al Khobar the Corniche,7.9,505.0,Khobar,0,0,0,0,0,0,0,1,0
+754,Le Méridien Al Khobar,8.4,724.0,Khobar,0,0,0,0,1,0,0,1,0
+755,Movenpick Hotel Al Khobar,8.3,715.0,Khobar,0,0,0,0,1,0,0,0,0
+756,Naviti Warwick Al Khobar,8.5,327.0,Khobar,0,0,0,0,0,0,0,1,0
+759,Golden Tulip Al Khobar Suites,6.8,267.0,Khobar,0,0,0,0,1,1,0,0,0
+761,Beata Garden,8.9,316.0,Khobar,0,0,0,0,0,0,0,1,0
+762,Holiday Inn Al Khobar - Corniche,7.2,342.0,Khobar,0,0,0,0,0,1,1,0,1
+763,Arjan Qurtuba Serviced Apartments,7.8,179.0,Khobar,0,0,1,0,0,0,0,0,0
+765,Grand Mayral Hotel,7.7,244.0,Khobar,0,0,0,0,1,0,0,0,0
+767,Carlton Al Moaibed Hotel,7.1,249.0,Khobar,0,0,0,0,0,0,0,1,0
+769,Boudl Gardenia Resort,8.9,311.0,Khobar,0,0,0,0,0,0,0,1,0
+770,Centro Corniche Al Khobar by Rotana,7.9,333.0,Khobar,0,0,0,0,0,0,0,1,0
+773,Braira Al Azizya Resort and Hotel,8.9,835.0,Khobar,0,0,0,0,0,1,0,0,0
+776,Sofitel Al Khobar the Corniche,7.9,413.0,Khobar,0,0,0,0,0,0,0,1,0
+778,Golden Tulip Al Khobar,7.2,270.0,Khobar,0,0,0,0,1,0,0,0,0
+779,Crowne Plaza AL KHOBAR,7.6,371.0,Khobar,0,0,0,0,0,0,1,0,1
+780,Park Inn By Radisson Al Khobar,7.3,255.0,Khobar,0,0,0,0,1,0,0,0,0
+781,Hilton Garden Inn Al Khobar,8.3,405.0,Khobar,0,0,0,0,0,0,0,1,0
+782,Le Méridien Al Khobar,8.4,799.0,Khobar,0,0,0,0,1,0,0,1,0
+783,Movenpick Hotel Al Khobar,8.3,571.0,Khobar,0,0,0,0,1,0,0,0,0
+784,Naviti Warwick Al Khobar,8.5,271.0,Khobar,0,0,0,0,0,0,0,1,0
+787,Golden Tulip Al Khobar Suites,6.8,266.0,Khobar,0,0,0,0,1,1,0,0,0
+788,Mkani Apartment,6.9,151.0,Khobar,0,0,0,0,0,1,0,0,0
+789,Beata Garden,8.9,306.0,Khobar,0,0,0,0,0,0,0,1,0
+790,Golden Bujari Hotel Al Dhahran,7.6,288.0,Khobar,0,0,0,0,1,0,0,0,0
+791,Arjan Qurtuba Serviced Apartments,7.8,172.0,Khobar,0,0,1,0,0,0,0,0,0
+792,Warwick Al Khobar,8.2,582.0,Khobar,0,0,0,0,0,0,0,1,0
+796,Carlton Al Moaibed Hotel,7.1,266.0,Khobar,0,0,0,0,0,0,0,1,0
+801,Braira Al Azizya Resort and Hotel,8.9,777.0,Khobar,0,0,0,0,0,1,0,0,0
+804,Sofitel Al Khobar the Corniche,7.9,443.0,Khobar,0,0,0,0,0,0,0,1,0
+807,DoubleTree by Hilton Hotel Dhahran,6.6,462.0,Khobar,0,0,0,0,0,0,0,1,0
+809,Crowne Plaza AL KHOBAR,7.6,355.0,Khobar,0,0,0,0,0,0,1,0,1
+811,Hilton Garden Inn Al Khobar,8.3,432.0,Khobar,0,0,0,0,0,0,0,1,0
+815,Mercure Al Khobar Hotel,6.7,327.0,Khobar,0,0,0,0,1,0,0,1,0
+816,Golden Tulip Al Khobar Suites,6.8,268.0,Khobar,0,0,0,0,1,1,0,0,0
+817,Mkani Apartment,6.9,148.0,Khobar,0,0,0,0,0,1,0,0,0
+819,Golden Bujari Hotel Al Dhahran,7.6,290.0,Khobar,0,0,0,0,1,0,0,0,0
+820,Arjan Qurtuba Serviced Apartments,7.8,168.0,Khobar,0,0,1,0,0,0,0,0,0
+827,Golden Elite Hotel,8.2,303.0,Khobar,0,0,0,0,0,0,0,1,0
+828,Tamaya Hotel,4.3,299.0,Khobar,0,0,0,0,0,1,0,0,0
+830,Mabeet Al Khobar Hotel Suites,9.3,217.0,Khobar,0,0,1,0,0,0,0,0,0
+832,Private Luxury Apartments - Al Khozama,7.0,196.0,Khobar,0,0,0,0,0,0,0,0,0
+833,Centro Corniche Al Khobar by Rotana,7.9,313.0,Khobar,0,0,0,0,0,0,0,1,0
+835,HDB Al Khobar Resort & Spa,7.1,746.0,Khobar,0,0,0,0,0,0,0,1,0
+836,Braira Al Azizya Resort and Hotel,8.9,846.0,Khobar,0,0,0,0,0,1,0,0,0
+837,Mövenpick Beach Resort Al Khobar,6.9,1275.0,Khobar,0,0,0,0,1,0,0,1,0
+838,Holiday Inn & Suites AL KHOBAR,8.5,360.0,Khobar,0,0,0,0,0,0,0,1,0
+840,Grand Hyatt AL Khobar,8.9,656.0,Khobar,0,0,0,0,0,0,0,1,0
+842,Centro Corniche Al Khobar by Rotana,7.9,323.0,Khobar,0,0,0,0,0,0,0,1,0
+845,Braira Al Azizya Resort and Hotel,8.9,921.0,Khobar,0,0,0,0,0,1,0,0,0
+847,Sofitel Al Khobar the Corniche,7.9,424.0,Khobar,0,0,0,0,0,0,0,1,0
+851,Holiday Inn Al Khobar - Corniche,7.2,364.0,Khobar,0,0,0,0,0,1,1,0,1
+852,Holiday Inn AL KHOBAR,7.7,375.0,Khobar,0,0,0,0,1,1,0,0,0
+853,Aloft Dhahran Hotel,8.4,292.0,Khobar,1,0,0,0,0,0,0,0,0
+858,Normas Hotel,8.2,292.0,Khobar,0,0,0,0,1,0,0,0,0
+859,Carlton Al Moaibed Hotel,7.1,261.0,Khobar,0,0,0,0,0,0,0,1,0
+861,Continent Hotel Al Uqayr,8.3,352.0,Khobar,0,0,0,0,0,0,0,1,0
+862,Shally Residence 3,7.5,179.0,Khobar,0,0,0,0,1,0,0,0,0
+863,تمايا الخبر Tamaya Alkhobar,7.5,347.0,Khobar,0,0,0,0,0,0,0,1,0
+865,Eliana Hotel,7.5,288.0,Khobar,0,0,0,0,1,1,0,0,0
+866,Rawabi Al Khobar Hotel,7.2,248.0,Khobar,0,0,0,1,0,0,1,0,1
+867,فندق ليان بارك Lian Park Hotel,7.6,236.0,Khobar,0,0,0,0,0,0,0,1,0
+868,Staybridge Suites Al Khobar City,8.8,371.0,Khobar,0,0,0,1,0,0,0,0,0
+869,Makarem Residence - Hotel Apartment,8.4,296.0,Khobar,0,0,0,0,1,0,0,1,0
+870,Swat Olaya Hotel Apartments,9.2,230.0,Khobar,0,0,0,0,0,0,0,1,0
+871,Swat Hotel Apartment 4,9.1,190.0,Khobar,0,0,0,0,0,1,0,0,0
+877,Sofitel Al Khobar the Corniche,7.9,473.0,Khobar,0,0,0,0,0,0,0,1,0
+884,Movenpick Hotel Al Khobar,8.3,754.0,Khobar,0,0,0,0,1,0,0,0,0
+886,Mercure Al Khobar Hotel,6.7,319.0,Khobar,0,0,0,0,1,0,0,1,0
+887,Golden Tulip Al Khobar Suites,6.8,318.0,Khobar,0,0,0,0,1,1,0,0,0
+890,Holiday Inn Al Khobar - Corniche,7.2,386.0,Khobar,0,0,0,0,0,1,1,0,1
+895,Carlton Al Moaibed Hotel,7.1,270.0,Khobar,0,0,0,0,0,0,0,1,0
+901,The Proud Hotel,8.8,248.0,Khobar,0,0,0,0,0,0,0,1,0
+904,Zara Continental Hotel Al Khobar,7.2,301.0,Khobar,0,0,0,0,1,0,0,0,0
+905,Mercure Al Khobar Hotel,6.7,322.0,Khobar,0,0,0,0,1,0,0,1,0
+906,Grand Mayral Hotel,7.7,243.0,Khobar,0,0,0,0,1,0,0,0,0
+907,InterContinental AL KHOBAR,8.0,732.0,Khobar,0,0,0,0,1,1,0,0,0
+908,The Address Residence,9.1,465.0,Khobar,0,0,0,0,0,0,0,1,0
+909,Marriott Executive Apartments Al Khobar,8.9,650.0,Khobar,0,0,0,0,0,0,0,1,0
+910,Shally Residence 3,7.5,175.0,Khobar,0,0,0,0,1,0,0,0,0
+911,Terrace View 1 - Hotel Apartments,8.2,300.0,Khobar,0,0,1,0,0,0,0,0,0
+912,Eliana Hotel,7.5,286.0,Khobar,0,0,0,0,1,1,0,0,0
+913,Lina Park 5 Hotel,6.9,424.0,Khobar,0,0,0,0,0,0,0,1,0
+915,Golden Elite Hotel,8.2,291.0,Khobar,0,0,0,0,0,0,0,1,0
+916,Centro Corniche Al Khobar by Rotana,7.9,394.0,Khobar,0,0,0,0,0,0,0,1,0
+917,Boudl Gardenia Resort,8.3,541.0,Khobar,0,0,0,0,0,0,0,1,0
+919,Braira Al Azizya Resort and Hotel,8.9,1085.0,Khobar,0,0,0,0,0,1,0,0,0
+920,Holiday Inn & Suites AL KHOBAR,8.5,382.0,Khobar,0,0,0,0,0,0,0,1,0
+921,Sofitel Al Khobar the Corniche,7.9,431.0,Khobar,0,0,0,0,0,0,0,1,0
+924,Golden Tulip Al Khobar,7.2,631.0,Khobar,0,0,0,0,1,0,0,0,0
+925,Crowne Plaza AL KHOBAR,7.6,307.0,Khobar,0,0,0,0,0,0,1,0,1
+927,Hilton Garden Inn Al Khobar,8.3,450.0,Khobar,0,0,0,0,0,0,0,1,0
+929,Movenpick Hotel Al Khobar,8.3,589.0,Khobar,0,0,0,0,1,0,0,0,0
+931,Ramada by Wyndham Al Khobar King Abdullah Street,7.1,344.0,Khobar,0,0,0,0,1,1,0,0,0
+933,Beata Garden,8.9,407.0,Khobar,0,0,0,0,0,0,0,1,0
+934,Holiday Inn Al Khobar - Corniche,7.2,338.0,Khobar,0,0,0,0,0,1,1,0,1
+935,Holiday Inn AL KHOBAR,7.7,301.0,Khobar,0,0,0,0,1,1,0,0,0
+941,Movenpick Hotel Al Khobar,8.3,735.0,Khobar,0,0,0,0,1,0,0,0,0
+944,Golden Tulip Al Khobar Suites,6.8,447.0,Khobar,0,0,0,0,1,1,0,0,0
+945,Beata Garden,8.9,391.0,Khobar,0,0,0,0,0,0,0,1,0
+946,Holiday Inn Al Khobar - Corniche,7.2,353.0,Khobar,0,0,0,0,0,1,1,0,1
+947,Holiday Inn AL KHOBAR,7.7,331.0,Khobar,0,0,0,0,1,1,0,0,0
+950,Grandeur East,7.4,206.0,Khobar,0,0,0,0,0,0,0,1,0
+951,Shally Residence 3,7.5,164.0,Khobar,0,0,0,0,1,0,0,0,0
+952,تمايا الخبر Tamaya Alkhobar,7.5,295.0,Khobar,0,0,0,0,0,0,0,1,0
+954,Ottoman Signature Hotel,6.9,260.0,Khobar,0,0,0,1,0,0,0,0,0
+955,Eliana Hotel,7.5,285.0,Khobar,0,0,0,0,1,1,0,0,0
+956,Dream Residence Khobar,8.9,336.0,Khobar,0,0,0,0,0,0,0,1,0
+957,Rawabi Al Khobar Hotel,7.2,252.0,Khobar,0,0,0,1,0,0,1,0,1
+958,Hawthorn Suites by Wyndham Al Khobar,6.2,192.0,Khobar,0,0,0,0,1,0,0,0,0
+961,Centro Corniche Al Khobar by Rotana,7.9,425.0,Khobar,0,0,0,0,0,0,0,1,0
+968,The Proud Hotel,8.8,562.0,Khobar,0,0,0,0,0,0,0,1,0
+972,Hilton Garden Inn Al Khobar,8.3,293.0,Khobar,0,0,0,0,0,0,0,1,0
+975,Ramada by Wyndham Al Khobar King Abdullah Street,7.1,327.0,Khobar,0,0,0,0,1,1,0,0,0
+978,Beata Garden,8.9,425.0,Khobar,0,0,0,0,0,0,0,1,0
+980,Aloft Dhahran Hotel,8.4,409.0,Khobar,1,0,0,0,0,0,0,0,0
+986,Hilton Garden Inn Al Khobar,8.3,332.0,Khobar,0,0,0,0,0,0,0,1,0
+989,Mercure Al Khobar Hotel,6.7,318.0,Khobar,0,0,0,0,1,0,0,1,0
+990,Golden Tulip Al Khobar Suites,6.8,262.0,Khobar,0,0,0,0,1,1,0,0,0
+992,Ramada Encore by Wyndham Al Khobar Olaya,7.5,252.0,Khobar,0,0,0,0,1,0,0,0,0
+993,Golden Bujari Hotel Al Dhahran,7.6,305.0,Khobar,0,0,0,0,1,0,0,0,0
+994,Arjan Qurtuba Serviced Apartments,7.8,175.0,Khobar,0,0,1,0,0,0,0,0,0
+997,The Address Residence,9.1,385.0,Khobar,0,0,0,0,0,0,0,1,0
+999,Habitat Hotel All Suites Al Khobar,7.1,284.0,Khobar,0,0,0,0,0,0,0,1,0
+1000,Grandeur East,7.4,205.0,Khobar,0,0,0,0,0,0,0,1,0
+1001,Continent Hotel Al Uqayr,8.3,896.0,Khobar,0,0,0,0,0,0,0,1,0
+1008,Hawthorn Suites by Wyndham Al Khobar,6.2,188.0,Khobar,0,0,0,0,1,0,0,0,0
+1010,Golden Bujari Al Khobar Hotel,7.5,314.0,Khobar,0,0,0,0,0,0,0,1,0
+1012,Private Luxury Apartments - Al Khozama,7.0,175.0,Khobar,0,0,0,0,0,0,0,0,0
+1014,Golden Tulip Al Khobar,7.2,262.0,Khobar,0,0,0,0,1,0,0,0,0
+1018,Braira Al Azizya Resort and Hotel,8.9,874.0,Khobar,0,0,0,0,0,1,0,0,0
+1020,Sofitel Al Khobar the Corniche,7.9,519.0,Khobar,0,0,0,0,0,0,0,1,0
+1023,Staybridge Suites - Al Khobar,8.7,558.0,Khobar,0,0,0,0,0,0,0,0,0
+1024,Ascott Corniche Al Khobar,8.1,405.0,Khobar,0,0,0,0,0,0,0,1,0
+1026,Arjan Qurtuba Serviced Apartments,7.8,164.0,Khobar,0,0,1,0,0,0,0,0,0
+1028,Ramada Encore by Wyndham Al Khobar Corniche,8.5,327.0,Khobar,0,0,0,0,1,0,0,0,0
+1031,Hilton Al Khobar King Fahd Causeway,8.8,572.0,Khobar,0,0,0,0,0,0,0,1,0
+1035,Centro Corniche Al Khobar by Rotana,7.9,384.0,Khobar,0,0,0,0,0,0,0,1,0
+1037,HDB Al Khobar Resort & Spa,7.1,761.0,Khobar,0,0,0,0,0,0,0,1,0
+1040,Sofitel Al Khobar the Corniche,7.9,582.0,Khobar,0,0,0,0,0,0,0,1,0
+1044,Crowne Plaza AL KHOBAR,7.6,392.0,Khobar,0,0,0,0,0,0,1,0,1
+1045,Park Inn By Radisson Al Khobar,7.3,259.0,Khobar,0,0,0,0,1,0,0,0,0
+1048,Movenpick Hotel Al Khobar,8.3,761.0,Khobar,0,0,0,0,1,0,0,0,0
+1061,Carlton Al Moaibed Hotel,7.1,275.0,Khobar,0,0,0,0,0,0,0,1,0
+1063,Centro Corniche Al Khobar by Rotana,7.9,435.0,Khobar,0,0,0,0,0,0,0,1,0
+1064,Braira Al Azizya Resort and Hotel,8.9,887.0,Khobar,0,0,0,0,0,1,0,0,0
+1070,Staybridge Suites - Al Khobar,8.7,462.0,Khobar,0,0,0,0,0,0,0,0,0
+1071,Ascott Corniche Al Khobar,8.1,574.0,Khobar,0,0,0,0,0,0,0,1,0
+1072,Crowne Plaza AL KHOBAR,7.6,463.0,Khobar,0,0,0,0,0,0,1,0,1
+1073,Park Inn By Radisson Al Khobar,7.3,265.0,Khobar,0,0,0,0,1,0,0,0,0
+1076,Movenpick Hotel Al Khobar,8.3,593.0,Khobar,0,0,0,0,1,0,0,0,0
+1079,Mercure Al Khobar Hotel,6.7,330.0,Khobar,0,0,0,0,1,0,0,1,0
+1084,Carlton Al Moaibed Hotel,7.1,297.0,Khobar,0,0,0,0,0,0,0,1,0
+1089,Braira Al Azizya Resort and Hotel,8.9,914.0,Khobar,0,0,0,0,0,1,0,0,0
+1095,Zara Continental Hotel Al Khobar,7.2,294.0,Khobar,0,0,0,0,1,0,0,0,0
+1096,Crowne Plaza AL KHOBAR,7.6,333.0,Khobar,0,0,0,0,0,0,1,0,1
+1098,Hilton Garden Inn Al Khobar,8.3,334.0,Khobar,0,0,0,0,0,0,0,1,0
+1100,Movenpick Hotel Al Khobar,8.3,736.0,Khobar,0,0,0,0,1,0,0,0,0
+1103,Mkani Apartment,6.9,153.0,Khobar,0,0,0,0,0,1,0,0,0
+1104,Beata Garden,8.9,311.0,Khobar,0,0,0,0,0,0,0,1,0
+1106,Arjan Qurtuba Serviced Apartments,7.8,219.0,Khobar,0,0,1,0,0,0,0,0,0
+1112,Braira Al Azizya Resort and Hotel,8.9,973.0,Khobar,0,0,0,0,0,1,0,0,0
+1113,Holiday Inn & Suites AL KHOBAR,8.5,450.0,Khobar,0,0,0,0,0,0,0,1,0
+1120,Dyafa Luxury Residence - Hotel Apartment,8.0,255.0,Khobar,0,0,0,0,0,1,0,0,0
+1123,Private Luxury Apartments - Al Khozama,7.0,172.0,Khobar,0,0,0,0,0,0,0,0,0
+1124,Staybridge Suites - Al Khobar,8.7,505.0,Khobar,0,0,0,0,0,0,0,0,0
+1136,Mercure Al Khobar Hotel,6.7,321.0,Khobar,0,0,0,0,1,0,0,1,0
+1138,Beata Garden,8.9,293.0,Khobar,0,0,0,0,0,0,0,1,0
+1140,Holiday Inn AL KHOBAR,7.7,364.0,Khobar,0,0,0,0,1,1,0,0,0
+1141,Aloft Dhahran Hotel,8.4,301.0,Khobar,1,0,0,0,0,0,0,0,0
+1146,Habitat Hotel All Suites Al Khobar,7.1,283.0,Khobar,0,0,0,0,0,0,0,1,0
+1165,Ascott Corniche Al Khobar,8.1,594.0,Khobar,0,0,0,0,0,0,0,1,0
+1166,voco Al Khobar an IHG Hotel,8.9,616.0,Khobar,0,0,0,0,0,0,0,1,0
+1168,Crowne Plaza AL KHOBAR,7.6,360.0,Khobar,0,0,0,0,0,0,1,0,1
+1173,Marriott Executive Apartments Al Khobar,8.9,770.0,Khobar,0,0,0,0,0,0,0,1,0
+1182,Somerset Downtown Al Khobar,8.8,600.0,Khobar,0,0,0,0,0,0,0,1,0
+1186,DoubleTree by Hilton Hotel Dhahran,6.6,508.0,Khobar,0,0,0,0,0,0,0,1,0
+1187,Hilton Garden Inn Al Khobar,8.3,394.0,Khobar,0,0,0,0,0,0,0,1,0
+1193,Braira Al Azizya Resort and Hotel,8.9,875.0,Khobar,0,0,0,0,0,1,0,0,0
+1197,Golden Tulip Al Khobar,7.2,269.0,Khobar,0,0,0,0,1,0,0,0,0
+1198,Ascott Corniche Al Khobar,8.1,606.0,Khobar,0,0,0,0,0,0,0,1,0
+1199,Hilton Garden Inn Al Khobar,8.3,433.0,Khobar,0,0,0,0,0,0,0,1,0
+1201,Movenpick Hotel Al Khobar,8.3,772.0,Khobar,0,0,0,0,1,0,0,0,0
+1207,Holiday Inn Al Khobar - Corniche,7.2,418.0,Khobar,0,0,0,0,0,1,1,0,1
+1208,Holiday Inn AL KHOBAR,7.7,386.0,Khobar,0,0,0,0,1,1,0,0,0
+1209,Golden Bujari Hotel Al Dhahran,7.6,306.0,Khobar,0,0,0,0,1,0,0,0,0
+1210,Carlton Al Moaibed Hotel,7.1,279.0,Khobar,0,0,0,0,0,0,0,1,0
+1212,Braira Al Azizya Resort and Hotel,8.9,176.0,Khobar,0,0,0,0,0,1,0,0,0
+1216,Park Inn By Radisson Al Khobar,7.3,275.0,Khobar,0,0,0,0,1,0,0,0,0
+1217,Private Luxury Apartments - Al Khozama,7.0,164.0,Khobar,0,0,0,0,0,0,0,0,0
+1218,Executives Hotel - Olaya,7.7,590.0,Riyadh,0,0,0,0,0,0,0,1,0
+1219,"Park Inn by Radisson, Riyadh",8.3,1020.0,Riyadh,0,0,0,0,0,0,0,1,0
+1220,Joudyan Olaya Riyadh,8.3,1026.0,Riyadh,0,0,0,0,0,0,0,1,0
+1221,Crown Rose Hotel,7.4,585.0,Riyadh,0,0,0,0,0,0,0,1,0
+1222,Rosh Rayhaan by Rotana,8.5,1085.0,Riyadh,0,0,0,0,0,0,0,1,0
+1223,Hyatt Place Riyadh Sulaimania,8.5,999.0,Riyadh,0,0,0,0,0,0,0,1,0
+1224,Al Malqa Elite Hotel,7.5,541.0,Riyadh,0,0,0,0,0,0,0,0,0
+1225,Boudl Gaber,8.1,543.0,Riyadh,0,0,0,0,1,1,0,0,0
+1226,Holiday Inn RIYADH THE BUSINESS DISTRICT,8.7,1105.0,Riyadh,0,0,0,0,0,0,0,1,0
+1227,Boudl Al Woroud,8.0,592.0,Riyadh,0,0,0,0,1,1,0,0,0
+1228,"Marriott Executive Apartments Riyadh, Convention Center",8.7,1041.0,Riyadh,0,0,0,0,1,0,0,1,0
+1229,Crowne Plaza Hotel Riyadh Minhal,8.6,1350.0,Riyadh,0,0,0,0,0,0,0,1,0
+1230,Rafa Homes Al Izdihar 1,7.7,315.0,Riyadh,0,0,0,0,0,0,0,0,0
+1231,Comfort Hotel Riyadh Olaya,9.5,599.0,Riyadh,0,0,0,0,1,0,0,0,0
+1232,Radisson Blu Hotel & Residence Riyadh Diplomatic Quarters,8.9,2000.0,Riyadh,0,0,0,0,0,0,0,1,0
+1233,"Narcissus Hotel & Spa, Riyadh",8.6,1800.0,Riyadh,0,0,0,0,0,0,0,1,0
+1234,Braira Al Wezarat,8.4,816.0,Riyadh,0,0,0,0,0,0,0,1,0
+1235,Four Seasons Hotel Riyadh,8.9,4165.0,Riyadh,0,0,0,0,0,0,0,1,0
+1236,Ewaa Express Hotel - Gaber,8.7,436.0,Riyadh,0,0,0,0,0,1,0,0,0
+1237,Boudl Al Munsiyah,8.0,510.0,Riyadh,0,0,0,0,0,0,0,1,0
+1238,Centro Olaya by Rotana,7.9,800.0,Riyadh,0,0,0,0,0,0,0,1,0
+1239,Hilton Riyadh Hotel & Residences,8.3,1486.0,Riyadh,0,0,0,0,0,0,0,1,0
+1240,InterContinental Hotels RIYADH,7.7,1670.0,Riyadh,0,0,0,0,0,0,0,1,0
+1241,Hyatt Regency Riyadh Olaya,8.5,1488.0,Riyadh,0,0,0,0,0,0,0,1,0
+1242,Le Méridien Riyadh,8.3,1900.0,Riyadh,0,0,0,0,0,0,0,1,0
+1243,Holiday Inn RIYADH - AL QASR,7.1,901.0,Riyadh,0,0,0,0,0,0,0,1,0
+1244,Novotel Riyadh Sahafa (Opening March 2024),9.5,1570.0,Riyadh,0,0,0,0,1,1,0,0,0
+1245,Lailaty Hotel Apartment,7.6,264.0,Riyadh,0,0,0,0,0,0,0,0,0
+1246,Aber 103 Al Mounisya,9.2,591.0,Riyadh,0,0,0,0,0,0,0,0,0
+1247,Fraser Suites Riyadh,8.1,901.0,Riyadh,0,0,0,0,1,0,0,0,0
+1248,Radisson Hotel & Residence Riyadh Olaya,9.1,856.0,Riyadh,0,0,0,0,0,0,0,1,0
+1249,Ascott Rafal Olaya Riyadh,7.9,2025.0,Riyadh,0,0,0,0,1,0,0,0,0
+1250,Almuhaidb Al Takhasosi Hotel,7.8,337.0,Riyadh,0,0,0,0,0,0,0,1,0
+1251,JW Marriott Hotel Riyadh,7.8,2550.0,Riyadh,0,0,0,0,1,0,0,0,0
+1252,Boudl Al Qasr,7.4,697.0,Riyadh,0,0,0,0,0,1,0,1,0
+1253,Almuhaidb Altakhassusi 5,7.5,347.0,Riyadh,0,0,0,0,0,0,0,1,0
+1254,Almuhaidb Salahuddin- Almalaz,7.7,332.0,Riyadh,0,0,0,0,0,0,0,1,0
+1255,Dorar Darea Hotel Apartments - Al Nafl,7.2,249.0,Riyadh,0,0,0,0,0,1,0,0,0
+1256,Courtyard by Marriott Riyadh Northern Ring Road,8.2,1582.0,Riyadh,0,0,0,0,0,0,0,1,0
+1257,Al Muhaidb Khanshalila,7.5,166.0,Riyadh,0,0,0,1,0,1,0,0,0
+1258,Swiss International Royal Hotel Riyadh,7.5,1095.0,Riyadh,0,0,0,0,0,0,0,1,0
+1259,Voyage Residence,8.8,381.0,Riyadh,0,0,0,0,0,0,0,1,0
+1260,Courtyard Riyadh Olaya,8.3,1150.0,Riyadh,0,0,0,0,0,0,0,1,0
+1261,AlMuhaidb For Hotel Apartments 24,6.4,277.0,Riyadh,0,0,1,0,0,0,0,0,0
+1262,Erfad Hotel - Riyadh,8.9,1183.0,Riyadh,0,0,0,0,0,0,0,1,0
+1263,Hayat Alriyadh Hotel,7.7,442.0,Riyadh,0,0,0,0,0,0,0,1,0
+1264,Revan Palace,6.9,514.0,Riyadh,0,0,0,0,1,0,0,0,0
+1265,Novotel Suites Riyadh Centre,7.8,773.0,Riyadh,0,0,0,0,0,0,0,1,0
+1266,AlMuhaidb Almalaz 7,6.7,297.0,Riyadh,0,0,0,0,0,1,0,0,0
+1267,Sarwat Park Hotel Riyadh,8.1,964.0,Riyadh,0,0,0,0,0,0,0,1,0
+1268,Al Muhaidb Al Diwan - Al Olaya,6.8,342.0,Riyadh,0,0,0,0,0,0,0,1,0
+1269,Taleen AlSahafa Hotel Apartments,5.9,340.0,Riyadh,0,0,0,0,0,1,0,0,0
+1270,Mira Business Hotel,7.8,677.0,Riyadh,0,0,0,0,0,0,1,0,1
+1271,Taleen Granada hotel apartments,6.3,283.0,Riyadh,0,0,0,0,0,1,0,0,0
+1272,Crowne Plaza Hotel Riyadh Minhal,8.6,675.0,Riyadh,0,0,0,0,0,0,0,1,0
+1273,Baron Al Masif,6.7,237.0,Riyadh,0,0,0,0,0,0,0,0,0
+1274,Boudl Al Sahafa,8.2,789.0,Riyadh,0,0,0,0,0,1,0,0,0
+1275,Intour Qurtoba Hotel Suites,7.0,449.0,Riyadh,0,0,0,0,1,0,0,0,0
+1276,"Narcissus Hotel & Spa, Riyadh",8.6,1500.0,Riyadh,0,0,0,0,0,0,0,1,0
+1277,Four Seasons Hotel Riyadh,8.9,3800.0,Riyadh,0,0,0,0,0,0,0,1,0
+1278,Ewaa Express Hotel - Gaber,8.7,789.0,Riyadh,0,0,0,0,0,1,0,0,0
+1279,Hdb Hotel Financal District,7.3,764.0,Riyadh,0,0,0,0,0,0,0,1,0
+1280,InterContinental Hotels RIYADH,7.7,807.0,Riyadh,0,0,0,0,0,0,0,1,0
+1281,"InterContinental Durrat Al Riyadh Resort & Spa, an IHG Hotel",8.3,801.0,Riyadh,0,0,0,0,1,0,0,0,0
+1282,Crowne Plaza RIYADH RDC HOTEL & CONVENTION,8.9,1092.0,Riyadh,0,0,0,0,0,0,0,1,0
+1283,Radisson Blu Hotel Riyadh Qurtuba,8.3,935.0,Riyadh,0,0,0,0,0,0,0,1,0
+1284,Aber 102,8.9,761.0,Riyadh,0,0,0,0,0,0,0,1,0
+1285,Viola Gardens,8.5,633.0,Riyadh,0,0,0,0,0,1,0,0,0
+1286,Cantonal Hotel By Warwick,9.0,823.0,Riyadh,0,0,0,0,0,0,0,1,0
+1287,Golden Tulip Riyadh,8.8,781.0,Riyadh,0,0,0,0,0,0,0,1,0
+1288,Crowne Plaza RIYADH AL WAHA,7.7,742.0,Riyadh,0,0,0,0,1,1,0,0,0
+1289,Continent Hotel Al Waha Riyad,7.7,672.0,Riyadh,0,0,0,0,0,0,0,1,0
+1290,Rafa - Al Nuzhah,8.2,430.0,Riyadh,0,0,0,0,0,1,0,0,0
+1291,Riyadh Marriott Hotel,7.5,660.0,Riyadh,0,0,0,0,0,0,0,1,0
+1292,Ramada Riyadh,7.9,1669.0,Riyadh,0,0,0,0,0,0,0,1,0
+1293,Ross Hotel,8.5,665.0,Riyadh,0,0,0,0,1,0,0,0,0
+1295,Braira Al Wezarat,8.4,809.0,Riyadh,0,0,0,0,0,0,0,1,0
+1296,Four Seasons Hotel Riyadh,8.9,3900.0,Riyadh,0,0,0,0,0,0,0,1,0
+1297,Ewaa Express Hotel - Gaber,8.7,409.0,Riyadh,0,0,0,0,0,1,0,0,0
+1298,Boudl Al Munsiyah,8.0,612.0,Riyadh,0,0,0,0,0,0,0,1,0
+1299,Centro Olaya by Rotana,7.9,587.0,Riyadh,0,0,0,0,0,0,0,1,0
+1300,Hilton Riyadh Hotel & Residences,8.3,1212.0,Riyadh,0,0,0,0,0,0,0,1,0
+1301,Hyatt Regency Riyadh Olaya,8.5,1313.0,Riyadh,0,0,0,0,0,0,0,1,0
+1302,"InterContinental Durrat Al Riyadh Resort & Spa, an IHG Hotel",8.3,967.0,Riyadh,0,0,0,0,1,0,0,0,0
+1303,Rand by Wandalus,7.2,573.0,Riyadh,0,0,0,0,1,0,0,0,0
+1304,Le Méridien Riyadh,8.3,1300.0,Riyadh,0,0,0,0,0,0,0,1,0
+1305,Holiday Inn RIYADH - AL QASR,7.1,750.0,Riyadh,0,0,0,0,0,0,0,1,0
+1306,Novotel Riyadh Sahafa (Opening March 2024),9.5,1208.0,Riyadh,0,0,0,0,1,1,0,0,0
+1310,Radisson Hotel & Residence Riyadh Olaya,9.1,881.0,Riyadh,0,0,0,0,0,0,0,1,0
+1311,Ascott Rafal Olaya Riyadh,7.9,2044.0,Riyadh,0,0,0,0,1,0,0,0,0
+1312,Almuhaidb Al Takhasosi Hotel,7.8,316.0,Riyadh,0,0,0,0,0,0,0,1,0
+1313,JW Marriott Hotel Riyadh,7.8,1650.0,Riyadh,0,0,0,0,1,0,0,0,0
+1314,Ewaa Express Hotel - Al Olaya,8.6,861.0,Riyadh,0,0,0,0,0,0,0,1,0
+1315,Almuhaidb Altakhassusi 5,7.5,325.0,Riyadh,0,0,0,0,0,0,0,1,0
+1316,Almuhaidb Salahuddin- Almalaz,7.7,311.0,Riyadh,0,0,0,0,0,0,0,1,0
+1317,Dorar Darea Hotel Apartments - Al Nafl,7.2,237.0,Riyadh,0,0,0,0,0,1,0,0,0
+1318,Courtyard by Marriott Riyadh Northern Ring Road,8.2,850.0,Riyadh,0,0,0,0,0,0,0,1,0
+1319,Grand Plaza Hotel - Dhabab Riyadh,8.3,716.0,Riyadh,0,0,0,0,1,0,0,0,0
+1320,Al Muhaidb Khanshalila,7.5,200.0,Riyadh,0,0,0,1,0,1,0,0,0
+1322,Voyage Residence,8.8,353.0,Riyadh,0,0,0,0,0,0,0,1,0
+1323,Myrtle,6.8,510.0,Riyadh,0,0,0,0,0,1,0,0,0
+1324,Al Farhan Hotel Suites (Exit 15),6.1,281.0,Riyadh,0,0,0,0,0,1,0,0,0
+1325,Aber Al Munsiyah,7.9,641.0,Riyadh,0,0,0,0,1,0,0,0,0
+1326,Comfort Inn Al Yarmouk,5.1,600.0,Riyadh,0,0,0,0,1,0,0,0,0
+1327,Almasem Luxury Hotel suite 6,7.3,330.0,Riyadh,0,0,0,0,0,1,0,0,0
+1328,Amaaria Aquapark resort Villas & Chalet,8.1,2770.0,Riyadh,0,0,0,0,0,0,0,1,0
+1329,Almuhaidb Down Town,8.7,465.0,Riyadh,0,0,0,0,0,1,0,0,0
+1330,Revan Palace,6.9,515.0,Riyadh,0,0,0,0,1,0,0,0,0
+1333,AlMuhaidb Almalaz 7,6.7,279.0,Riyadh,0,0,0,0,0,1,0,0,0
+1335,Braira Al Wezarat,8.4,1800.0,Riyadh,0,0,0,0,0,0,0,1,0
+1337,Four Seasons Hotel Riyadh,8.9,3200.0,Riyadh,0,0,0,0,0,0,0,1,0
+1338,Ewaa Express Hotel - Gaber,8.7,440.0,Riyadh,0,0,0,0,0,1,0,0,0
+1340,Ahlin Suites 2,7.7,339.0,Riyadh,0,0,0,0,0,1,0,0,0
+1341,Centro Olaya by Rotana,7.9,959.0,Riyadh,0,0,0,0,0,0,0,1,0
+1342,Myrtle Al Sahafa,7.5,633.0,Riyadh,0,0,0,0,0,1,0,0,0
+1343,Taleen Al Nadwa,5.6,227.0,Riyadh,0,0,1,0,0,0,0,0,0
+1344,Mena Andalusia Hotel,6.3,341.0,Riyadh,0,0,0,0,0,1,0,0,0
+1345,Burj Alhayah Hotel Suites Olaya,8.2,520.0,Riyadh,0,0,0,0,0,1,0,0,0
+1346,Dara Hotel Qurtubah,8.2,424.0,Riyadh,0,0,0,0,0,0,0,1,0
+1347,Al Rahden Hotel,8.3,693.0,Riyadh,0,0,0,0,0,0,0,1,0
+1348,Golden Dune Hotel & Suite,8.2,326.0,Riyadh,0,0,0,0,1,0,0,0,0
+1349,Executives Hotel - Olaya,7.7,486.0,Riyadh,0,0,0,0,0,0,0,1,0
+1350,Aber Al Takhassusi hotel,8.5,664.0,Riyadh,0,0,0,0,0,0,0,1,0
+1351,"Park Inn by Radisson, Riyadh",8.3,850.0,Riyadh,0,0,0,0,0,0,0,1,0
+1352,Joudyan Olaya Riyadh,8.3,700.0,Riyadh,0,0,0,0,0,0,0,1,0
+1353,Grand Plaza Hotel-KAFD Riyadh,8.6,735.0,Riyadh,0,0,0,0,0,0,0,1,0
+1354,Boudl Al Olaya Hotel,7.9,744.0,Riyadh,0,0,0,1,0,1,0,0,0
+1355,Merfal Hotel Apartments Al Taawan,6.6,293.0,Riyadh,0,0,0,0,0,1,0,0,0
+1356,Courtyard Riyadh Diplomatic Quarter,8.1,1015.0,Riyadh,0,0,0,0,0,0,0,1,0
+1357,Duset Hotel Suites,8.6,360.0,Riyadh,0,0,0,0,1,0,0,0,0
+1358,Dara Al Rayyan,8.1,320.0,Riyadh,0,0,0,0,0,0,0,1,0
+1359,IntercityHotel Riyadh Malaz,8.0,982.0,Riyadh,0,0,0,0,0,0,0,1,0
+1360,Aber 102,8.9,781.0,Riyadh,0,0,0,0,0,0,0,1,0
+1361,Holiday Inn RIYADH - MEYDAN,7.5,905.0,Riyadh,0,0,0,0,0,0,0,1,0
+1362,Viola Gardens,8.5,730.0,Riyadh,0,0,0,0,0,1,0,0,0
+1363,Best Western Plus Fursan Hotel,8.1,654.0,Riyadh,0,0,0,0,1,0,0,0,0
+1364,Super 8 by Wyndham Al Riyadh,7.3,448.0,Riyadh,0,0,0,0,1,0,0,0,0
+1366,Novo Hotel Riyadh,8.7,1140.0,Riyadh,0,0,0,0,0,0,0,1,0
+1367,Holiday Inn RIYADH - IZDIHAR,7.3,1090.0,Riyadh,0,0,0,0,1,0,1,0,1
+1368,Admire Apart' Hotel,6.8,482.0,Riyadh,0,0,0,0,0,0,0,1,0
+1369,Millennia Olaya Hotel,7.5,784.0,Riyadh,0,0,0,0,0,0,0,1,0
+1370,Holiday Inn RIYADH - OLAYA,7.2,955.0,Riyadh,0,0,0,0,1,0,0,0,0
+1371,Boudl Al Sahafa,8.2,860.0,Riyadh,0,0,0,0,0,1,0,0,0
+1372,Voyage Apartments,7.9,401.0,Riyadh,0,0,0,1,0,1,0,0,0
+1373,Sheraton Riyadh Hotel & Towers,8.0,1188.0,Riyadh,0,0,0,0,0,0,0,1,0
+1374,Myrtle,6.8,569.0,Riyadh,0,0,0,0,0,1,0,0,0
+1375,Braira Qurtubah Riyadh,8.2,789.0,Riyadh,0,0,0,0,0,0,0,1,0
+1378,Four Seasons Hotel Riyadh,8.9,3300.0,Riyadh,0,0,0,0,0,0,0,1,0
+1381,Hdb Hotel Financal District,7.3,563.0,Riyadh,0,0,0,0,0,0,0,1,0
+1382,Ahlin Suites 2,7.7,297.0,Riyadh,0,0,0,0,0,1,0,0,0
+1384,Madareem Crown Hotel,8.1,626.0,Riyadh,0,0,0,0,0,0,0,1,0
+1386,Mena Andalusia Hotel,6.3,318.0,Riyadh,0,0,0,0,0,1,0,0,0
+1387,Burj Alhayah Hotel Suites Olaya,8.2,506.0,Riyadh,0,0,0,0,0,1,0,0,0
+1388,Dara Hotel Qurtubah,8.2,413.0,Riyadh,0,0,0,0,0,0,0,1,0
+1391,Executives Hotel - Olaya,7.7,581.0,Riyadh,0,0,0,0,0,0,0,1,0
+1392,Aber Al Takhassusi hotel,8.5,695.0,Riyadh,0,0,0,0,0,0,0,1,0
+1395,Jareed Hotel Riyadh,9.0,4382.0,Riyadh,0,0,0,0,0,0,0,1,0
+1396,Dorar Darea Hotel Apartments - Al Malqa 2,7.4,220.0,Riyadh,0,0,0,0,1,0,0,0,0
+1398,Merfal Hotel Apartments Al Taawan,6.6,317.0,Riyadh,0,0,0,0,0,1,0,0,0
+1402,IntercityHotel Riyadh Malaz,8.0,1137.0,Riyadh,0,0,0,0,0,0,0,1,0
+1403,Aber 102,8.9,773.0,Riyadh,0,0,0,0,0,0,0,1,0
+1404,Holiday Inn RIYADH - MEYDAN,7.5,1235.0,Riyadh,0,0,0,0,0,0,0,1,0
+1407,Radisson Blu Hotel & Residence Riyadh Diplomatic Quarters,8.9,2500.0,Riyadh,0,0,0,0,0,0,0,1,0
+1408,Braira Qurtubah Riyadh,8.2,966.0,Riyadh,0,0,0,0,0,0,0,1,0
+1410,Braira Al Wezarat,8.4,803.0,Riyadh,0,0,0,0,0,0,0,1,0
+1412,Ahlin Suites 2,7.7,291.0,Riyadh,0,0,0,0,0,1,0,0,0
+1414,Myrtle Al Sahafa,7.5,538.0,Riyadh,0,0,0,0,0,1,0,0,0
+1415,Hilton Riyadh Hotel & Residences,8.3,1625.0,Riyadh,0,0,0,0,0,0,0,1,0
+1416,voco Riyadh An IHG Hotel,9.0,1697.0,Riyadh,0,0,0,0,0,0,0,1,0
+1417,Golden Dune Hotel & Suite,8.2,336.0,Riyadh,0,0,0,0,1,0,0,0,0
+1418,Executives Hotel - Olaya,7.7,572.0,Riyadh,0,0,0,0,0,0,0,1,0
+1419,Aber Al Takhassusi hotel,8.5,719.0,Riyadh,0,0,0,0,0,0,0,1,0
+1422,Grand Plaza Hotel-KAFD Riyadh,8.6,785.0,Riyadh,0,0,0,0,0,0,0,1,0
+1424,Riyadh Airport Marriott Hotel,8.3,991.0,Riyadh,0,0,0,0,1,1,0,0,0
+1425,DoubleTree by Hilton Riyadh Financial District Hotel & Suites,8.5,4685.0,Riyadh,0,0,0,0,0,0,0,1,0
+1426,"Mansard Riyadh, a Radisson Collection Hotel",9.0,3062.0,Riyadh,0,0,0,0,0,0,0,1,0
+1427,Ewaa Express Hotel - Khorais,8.3,452.0,Riyadh,0,0,0,0,1,0,0,0,0
+1428,Anan Hotel,7.5,687.0,Riyadh,0,0,0,0,0,1,0,0,0
+1429,Smayah Residence,8.6,535.0,Riyadh,0,0,0,0,0,0,0,1,0
+1431,Crowne Plaza Hotel Riyadh Minhal,8.6,1275.0,Riyadh,0,0,0,0,0,0,0,1,0
+1437,Al Muteb Suites Khurais,5.1,400.0,Riyadh,0,0,0,0,0,1,0,0,0
+1439,Braira Qurtubah Riyadh,8.2,986.0,Riyadh,0,0,0,0,0,0,0,1,0
+1442,Four Seasons Hotel Riyadh,8.9,2800.0,Riyadh,0,0,0,0,0,0,0,1,0
+1445,Hdb Hotel Financal District,7.3,505.0,Riyadh,0,0,0,0,0,0,0,1,0
+1446,Ahlin Suites 2,7.7,302.0,Riyadh,0,0,0,0,0,1,0,0,0
+1447,Centro Olaya by Rotana,7.9,620.0,Riyadh,0,0,0,0,0,0,0,1,0
+1448,Aber Al Yasmin 101,8.1,732.0,Riyadh,0,0,0,1,0,0,0,0,0
+1450,Mena Andalusia Hotel,6.3,327.0,Riyadh,0,0,0,0,0,1,0,0,0
+1451,Burj Alhayah Hotel Suites Olaya,8.2,515.0,Riyadh,0,0,0,0,0,1,0,0,0
+1452,Dara Hotel Qurtubah,8.2,400.0,Riyadh,0,0,0,0,0,0,0,1,0
+1456,Joudyan Olaya Riyadh,8.3,953.0,Riyadh,0,0,0,0,0,0,0,1,0
+1459,Grand Plaza Hotel - Gulf Riyadh,8.5,745.0,Riyadh,0,0,0,0,1,0,0,0,0
+1460,Aber Al Yasmin,8.4,820.0,Riyadh,0,0,0,0,0,0,0,1,0
+1462,Dorar Darea Hotel Apartments - Al Malqa 2,7.4,224.0,Riyadh,0,0,0,0,1,0,0,0,0
+1463,Boudl Al Sulimanyah,8.2,433.0,Riyadh,0,0,0,0,1,0,0,0,0
+1466,Courtyard Riyadh Diplomatic Quarter,8.1,570.0,Riyadh,0,0,0,0,0,0,0,1,0
+1469,IntercityHotel Riyadh Malaz,8.0,568.0,Riyadh,0,0,0,0,0,0,0,1,0
+1470,"Mandarin Oriental Al Faisaliah, Riyadh",8.6,2838.0,Riyadh,0,0,0,0,0,0,0,1,0
+1471,"Marriott Executive Apartments Riyadh, Convention Center",8.7,744.0,Riyadh,0,0,0,0,1,0,0,1,0
+1475,Radisson Blu Hotel & Residence Riyadh Diplomatic Quarters,8.9,1500.0,Riyadh,0,0,0,0,0,0,0,1,0
+1483,InterContinental Hotels RIYADH,7.7,1357.0,Riyadh,0,0,0,0,0,0,0,1,0
+1485,Crowne Plaza Riyadh Palace,8.0,675.0,Riyadh,0,0,0,0,1,0,0,1,0
+1486,Seiba Hotel Apartments - Al Malaz,7.1,732.0,Riyadh,0,0,0,0,0,0,0,1,0
+1487,Rand by Wandalus,7.2,586.0,Riyadh,0,0,0,0,1,0,0,0,0
+1488,Le Méridien Riyadh,8.3,1850.0,Riyadh,0,0,0,0,0,0,0,1,0
+1489,Holiday Inn RIYADH - AL QASR,7.1,871.0,Riyadh,0,0,0,0,0,0,0,1,0
+1492,Aber 103 Al Mounisya,9.2,624.0,Riyadh,0,0,0,0,0,0,0,0,0
+1493,Fraser Suites Riyadh,8.1,1165.0,Riyadh,0,0,0,0,1,0,0,0,0
+1494,Radisson Hotel & Residence Riyadh Olaya,9.1,919.0,Riyadh,0,0,0,0,0,0,0,1,0
+1496,Sheraton Riyadh Hotel & Towers,8.0,712.0,Riyadh,0,0,0,0,0,0,0,1,0
+1497,Intour Qurtoba Hotel Suites,7.0,447.0,Riyadh,0,0,0,0,1,0,0,0,0
+1498,Braira Qurtubah Riyadh,8.2,1464.0,Riyadh,0,0,0,0,0,0,0,1,0
+1503,Hdb Hotel Financal District,7.3,533.0,Riyadh,0,0,0,0,0,0,0,1,0
+1507,DoubleTree by Hilton Riyadh - Al Muroj Business Gate,7.3,1758.0,Riyadh,0,0,0,0,1,0,0,0,0
+1508,Madareem Crown Hotel,8.1,671.0,Riyadh,0,0,0,0,0,0,0,1,0
+1510,Taleen Al Nadwa,5.6,244.0,Riyadh,0,0,1,0,0,0,0,0,0
+1511,Mena Andalusia Hotel,6.3,334.0,Riyadh,0,0,0,0,0,1,0,0,0
+1513,Dara Hotel Qurtubah,8.2,391.0,Riyadh,0,0,0,0,0,0,0,1,0
+1514,Al Rahden Hotel,8.3,730.0,Riyadh,0,0,0,0,0,0,0,1,0
+1515,Golden Dune Hotel & Suite,8.2,342.0,Riyadh,0,0,0,0,1,0,0,0,0
+1517,Executives Hotel - KAFD,8.1,634.0,Riyadh,0,0,0,0,0,0,0,1,0
+1518,Dabab Hotel by Warwick,7.3,451.0,Riyadh,0,0,0,0,0,0,0,1,0
+1520,Aber Al Yasmin,8.4,803.0,Riyadh,0,0,0,0,0,0,0,1,0
+1521,Jareed Hotel Riyadh,9.0,3511.0,Riyadh,0,0,0,0,0,0,0,1,0
+1523,Boudl Al Sulimanyah,8.2,577.0,Riyadh,0,0,0,0,1,0,0,0,0
+1524,Merfal Hotel Apartments Al Taawan,6.6,323.0,Riyadh,0,0,0,0,0,1,0,0,0
+1525,Courtyard Riyadh Diplomatic Quarter,8.1,1241.0,Riyadh,0,0,0,0,0,0,0,1,0
+1529,"Mandarin Oriental Al Faisaliah, Riyadh",8.6,2777.0,Riyadh,0,0,0,0,0,0,0,1,0
+1530,"Marriott Executive Apartments Riyadh, Convention Center",8.7,871.0,Riyadh,0,0,0,0,1,0,0,1,0
+1536,Braira Al Wezarat,8.4,994.0,Riyadh,0,0,0,0,0,0,0,1,0
+1537,Four Seasons Hotel Riyadh,8.9,6200.0,Riyadh,0,0,0,0,0,0,0,1,0
+1538,Ewaa Express Hotel - Gaber,8.7,452.0,Riyadh,0,0,0,0,0,1,0,0,0
+1540,Hdb Hotel Financal District,7.3,480.0,Riyadh,0,0,0,0,0,0,0,1,0
+1542,Hilton Riyadh Hotel & Residences,8.3,1860.0,Riyadh,0,0,0,0,0,0,0,1,0
+1543,InterContinental Hotels RIYADH,7.7,1578.0,Riyadh,0,0,0,0,0,0,0,1,0
+1544,Motiara Hotel - La Valle Mall,7.8,514.0,Riyadh,0,0,0,0,0,0,0,0,0
+1545,Crowne Plaza Riyadh Palace,8.0,990.0,Riyadh,0,0,0,0,1,0,0,1,0
+1548,Le Méridien Riyadh,8.3,2100.0,Riyadh,0,0,0,0,0,0,0,1,0
+1549,Holiday Inn RIYADH - AL QASR,7.1,991.0,Riyadh,0,0,0,0,0,0,0,1,0
+1551,Lailaty Hotel Apartment,7.6,300.0,Riyadh,0,0,0,0,0,0,0,0,0
+1553,Fraser Suites Riyadh,8.1,1276.0,Riyadh,0,0,0,0,1,0,0,0,0
+1557,Boudl Al Sahafa,8.2,658.0,Riyadh,0,0,0,0,0,1,0,0,0
+1559,Sheraton Riyadh Hotel & Towers,8.0,1140.0,Riyadh,0,0,0,0,0,0,0,1,0
+1561,Braira Qurtubah Riyadh,8.2,1275.0,Riyadh,0,0,0,0,0,0,0,1,0
+1564,Four Seasons Hotel Riyadh,8.9,7830.0,Riyadh,0,0,0,0,0,0,0,1,0
+1568,Ahlin Suites 2,7.7,281.0,Riyadh,0,0,0,0,0,1,0,0,0
+1571,Aber Al Yasmin 101,8.1,739.0,Riyadh,0,0,0,1,0,0,0,0,0
+1574,Burj Alhayah Hotel Suites Olaya,8.2,473.0,Riyadh,0,0,0,0,0,1,0,0,0
+1578,Executives Hotel - Olaya,7.7,561.0,Riyadh,0,0,0,0,0,0,0,1,0
+1579,Aber Al Takhassusi hotel,8.5,738.0,Riyadh,0,0,0,0,0,0,0,1,0
+1581,Aber Al Yasmin,8.4,811.0,Riyadh,0,0,0,0,0,0,0,1,0
+1583,Dorar Darea Hotel Apartments - Al Malqa 2,7.4,209.0,Riyadh,0,0,0,0,1,0,0,0,0
+1588,IntercityHotel Riyadh Malaz,8.0,1193.0,Riyadh,0,0,0,0,0,0,0,1,0
+1589,Aber 102,8.9,765.0,Riyadh,0,0,0,0,0,0,0,1,0
+1591,Viola Gardens,8.5,621.0,Riyadh,0,0,0,0,0,1,0,0,0
+1593,Radisson Blu Hotel & Residence Riyadh Diplomatic Quarters,8.9,2800.0,Riyadh,0,0,0,0,0,0,0,1,0
+1597,Four Seasons Hotel Riyadh,8.9,8100.0,Riyadh,0,0,0,0,0,0,0,1,0
+1598,Ewaa Express Hotel - Gaber,8.7,470.0,Riyadh,0,0,0,0,0,1,0,0,0
+1603,Aber Al Yasmin 101,8.1,724.0,Riyadh,0,0,0,1,0,0,0,0,0
+1609,Executives Hotel - Olaya,7.7,660.0,Riyadh,0,0,0,0,0,0,0,1,0
+1610,Aber Al Takhassusi hotel,8.5,687.0,Riyadh,0,0,0,0,0,0,0,1,0
+1612,Joudyan Olaya Riyadh,8.3,1036.0,Riyadh,0,0,0,0,0,0,0,1,0
+1616,Courtyard Riyadh Diplomatic Quarter,8.1,1460.0,Riyadh,0,0,0,0,0,0,0,1,0
+1623,Cantonal Hotel By Warwick,9.0,1191.0,Riyadh,0,0,0,0,0,0,0,1,0
+1626,Novo Hotel Riyadh,8.7,1171.0,Riyadh,0,0,0,0,0,0,0,1,0
+1633,Sheraton Riyadh Hotel & Towers,8.0,1377.0,Riyadh,0,0,0,0,0,0,0,1,0
+1634,Rukon Buyutat 15,7.0,450.0,Riyadh,0,0,0,0,0,1,0,0,0
+1635,Intour Qurtoba Hotel Suites,7.0,444.0,Riyadh,0,0,0,0,1,0,0,0,0
+1636,Braira Qurtubah Riyadh,8.2,949.0,Riyadh,0,0,0,0,0,0,0,1,0
+1639,Four Seasons Hotel Riyadh,8.9,4000.0,Riyadh,0,0,0,0,0,0,0,1,0
+1640,Ewaa Express Hotel - Gaber,8.7,459.0,Riyadh,0,0,0,0,0,1,0,0,0
+1644,Centro Olaya by Rotana,7.9,848.0,Riyadh,0,0,0,0,0,0,0,1,0
+1646,Aber Al Yasmin 101,8.1,675.0,Riyadh,0,0,0,1,0,0,0,0,0
+1648,Mena Andalusia Hotel,6.3,324.0,Riyadh,0,0,0,0,0,1,0,0,0
+1656,Dabab Hotel by Warwick,7.3,669.0,Riyadh,0,0,0,0,0,0,0,1,0
+1658,Aber Al Yasmin,8.4,816.0,Riyadh,0,0,0,0,0,0,0,1,0
+1667,Ross Hotel,8.5,800.0,Riyadh,0,0,0,0,1,0,0,0,0
+1668,"Mandarin Oriental Al Faisaliah, Riyadh",8.6,3079.0,Riyadh,0,0,0,0,0,0,0,1,0
+1669,"Marriott Executive Apartments Riyadh, Convention Center",8.7,999.0,Riyadh,0,0,0,0,1,0,0,1,0
+1674,Braira Qurtubah Riyadh,8.2,914.0,Riyadh,0,0,0,0,0,0,0,1,0
+1679,Boudl Al Munsiyah,8.0,620.0,Riyadh,0,0,0,0,0,0,0,1,0
+1683,DoubleTree by Hilton Riyadh - Al Muroj Business Gate,7.3,1532.0,Riyadh,0,0,0,0,1,0,0,0,0
+1687,Burj Alhayah Hotel Suites Olaya,8.2,497.0,Riyadh,0,0,0,0,0,1,0,0,0
+1688,Dara Hotel Qurtubah,8.2,392.0,Riyadh,0,0,0,0,0,0,0,1,0
+1693,Aber Al Yasmin,8.4,812.0,Riyadh,0,0,0,0,0,0,0,1,0
+1695,Dorar Darea Hotel Apartments - Al Malqa 2,7.4,217.0,Riyadh,0,0,0,0,1,0,0,0,0
+1697,Boudl Al Olaya Hotel,7.9,730.0,Riyadh,0,0,0,1,0,1,0,0,0
+1699,Courtyard Riyadh Diplomatic Quarter,8.1,869.0,Riyadh,0,0,0,0,0,0,0,1,0
+1702,Aber 102,8.9,849.0,Riyadh,0,0,0,0,0,0,0,1,0
+1703,Holiday Inn RIYADH - MEYDAN,7.5,1112.0,Riyadh,0,0,0,0,0,0,0,1,0
+1706,Radisson Blu Hotel & Residence Riyadh Diplomatic Quarters,8.9,2100.0,Riyadh,0,0,0,0,0,0,0,1,0
+1707,Braira Qurtubah Riyadh,8.2,866.0,Riyadh,0,0,0,0,0,0,0,1,0
+1711,Ewaa Express Hotel - Gaber,8.7,437.0,Riyadh,0,0,0,0,0,1,0,0,0
+1712,Boudl Al Munsiyah,8.0,554.0,Riyadh,0,0,0,0,0,0,0,1,0
+1713,Hdb Hotel Financal District,7.3,522.0,Riyadh,0,0,0,0,0,0,0,1,0
+1714,Ahlin Suites 2,7.7,277.0,Riyadh,0,0,0,0,0,1,0,0,0
+1723,Executives Hotel - Olaya,7.7,550.0,Riyadh,0,0,0,0,0,0,0,1,0
+1724,Aber Al Takhassusi hotel,8.5,679.0,Riyadh,0,0,0,0,0,0,0,1,0
+1726,Joudyan Olaya Riyadh,8.3,650.0,Riyadh,0,0,0,0,0,0,0,1,0
+1728,Dorar Darea Hotel Apartments - Al Malqa 2,7.4,208.0,Riyadh,0,0,0,0,1,0,0,0,0
+1730,Boudl Al Olaya Hotel,7.9,690.0,Riyadh,0,0,0,1,0,1,0,0,0
+1735,Cantonal Hotel By Warwick,9.0,944.0,Riyadh,0,0,0,0,0,0,0,1,0
+1736,Best Western Plus Fursan Hotel,8.1,630.0,Riyadh,0,0,0,0,1,0,0,0,0
+1740,Holiday Inn RIYADH - IZDIHAR,7.3,986.0,Riyadh,0,0,0,0,1,0,1,0,1
+1742,Holiday Inn RIYADH - OLAYA,7.2,866.0,Riyadh,0,0,0,0,1,0,0,0,0
+1744,Sheraton Riyadh Hotel & Towers,8.0,665.0,Riyadh,0,0,0,0,0,0,0,1,0
+1745,Rukon Buyutat 15,7.0,381.0,Riyadh,0,0,0,0,0,1,0,0,0
+1746,Intour Qurtoba Hotel Suites,7.0,546.0,Riyadh,0,0,0,0,1,0,0,0,0
+1755,DAMAC Riyadh - Luxury Apartments داماك الرياض,7.2,670.0,Riyadh,0,0,0,0,0,0,0,1,0
+1762,Joudyan Olaya Riyadh,8.3,976.0,Riyadh,0,0,0,0,0,0,0,1,0
+1765,DoubleTree by Hilton Riyadh Financial District Hotel & Suites,8.5,2784.0,Riyadh,0,0,0,0,0,0,0,1,0
+1766,"Mansard Riyadh, a Radisson Collection Hotel",9.0,2625.0,Riyadh,0,0,0,0,0,0,0,1,0
+1767,Merfal Hotel Apartments Al Taawan,6.6,322.0,Riyadh,0,0,0,0,0,1,0,0,0
+1768,Courtyard Riyadh Diplomatic Quarter,8.1,1207.0,Riyadh,0,0,0,0,0,0,0,1,0
+1773,Cantonal Hotel By Warwick,9.0,886.0,Riyadh,0,0,0,0,0,0,0,1,0
+1775,Braira Qurtubah Riyadh,8.2,868.0,Riyadh,0,0,0,0,0,0,0,1,0
+1776,"Narcissus Hotel & Spa, Riyadh",8.6,2500.0,Riyadh,0,0,0,0,0,0,0,1,0
+1777,Four Seasons Hotel Riyadh,8.9,6999.0,Riyadh,0,0,0,0,0,0,0,1,0
+1778,Ewaa Express Hotel - Gaber,8.7,466.0,Riyadh,0,0,0,0,0,1,0,0,0
+1791,Aber Al Takhassusi hotel,8.5,734.0,Riyadh,0,0,0,0,0,0,0,1,0
+1794,Boudl Al Sulimanyah,8.2,607.0,Riyadh,0,0,0,0,1,0,0,0,0
+1797,Courtyard Riyadh Diplomatic Quarter,8.1,1420.0,Riyadh,0,0,0,0,0,0,0,1,0
+1800,IntercityHotel Riyadh Malaz,8.0,1030.0,Riyadh,0,0,0,0,0,0,0,1,0
+1801,Aber 102,8.9,754.0,Riyadh,0,0,0,0,0,0,0,1,0
+1803,Viola Gardens,8.5,653.0,Riyadh,0,0,0,0,0,1,0,0,0
+1804,Comfort Hotel Riyadh Olaya,9.5,650.0,Riyadh,0,0,0,0,1,0,0,0,0
+1805,Radisson Blu Hotel & Residence Riyadh Diplomatic Quarters,8.9,4500.0,Riyadh,0,0,0,0,0,0,0,1,0
+1806,Al Farhan Hotel Suites Al Aqiq,7.0,328.0,Riyadh,0,0,0,0,1,1,0,0,0
+1807,Braira Qurtubah Riyadh,8.2,847.0,Riyadh,0,0,0,0,0,0,0,1,0
+1810,Four Seasons Hotel Riyadh,8.9,7500.0,Riyadh,0,0,0,0,0,0,0,1,0
+1816,Mena Andalusia Hotel,6.3,323.0,Riyadh,0,0,0,0,0,1,0,0,0
+1827,Boudl Al Sulimanyah,8.2,790.0,Riyadh,0,0,0,0,1,0,0,0,0
+1830,Courtyard Riyadh Diplomatic Quarter,8.1,1570.0,Riyadh,0,0,0,0,0,0,0,1,0
+1841,Centro Olaya by Rotana,7.9,804.0,Riyadh,0,0,0,0,0,0,0,1,0
+1842,Hilton Riyadh Hotel & Residences,8.3,2477.0,Riyadh,0,0,0,0,0,0,0,1,0
+1843,InterContinental Hotels RIYADH,7.7,1528.0,Riyadh,0,0,0,0,0,0,0,1,0
+1845,"InterContinental Durrat Al Riyadh Resort & Spa, an IHG Hotel",8.3,2025.0,Riyadh,0,0,0,0,1,0,0,0,0
+1846,Holiday Inn RIYADH - AL QASR,7.1,1027.0,Riyadh,0,0,0,0,0,0,0,1,0
+1850,Fraser Suites Riyadh,8.1,1552.0,Riyadh,0,0,0,0,1,0,0,0,0
+1851,Radisson Hotel & Residence Riyadh Olaya,9.1,1298.0,Riyadh,0,0,0,0,0,0,0,1,0
+1854,JW Marriott Hotel Riyadh,7.8,2250.0,Riyadh,0,0,0,0,1,0,0,0,0
+1855,Taleen Durrat Al Nakhil,7.0,227.0,Riyadh,0,0,0,0,0,1,0,0,0
+1856,Rose Garden Hotel,6.7,358.0,Riyadh,0,0,0,0,0,1,0,0,0
+1858,Courtyard by Marriott Riyadh Northern Ring Road,8.2,1808.0,Riyadh,0,0,0,0,0,0,0,1,0
+1861,Swiss International Royal Hotel Riyadh,7.5,1024.0,Riyadh,0,0,0,0,0,0,0,1,0
+1864,Courtyard Riyadh Olaya,8.3,1450.0,Riyadh,0,0,0,0,0,0,0,1,0
+1865,Rose Park,8.0,294.0,Riyadh,0,0,1,0,0,1,0,0,0
+1866,Makeen Homes by Warwick,7.6,310.0,Riyadh,0,0,0,0,1,0,0,0,0
+1867,Iris Boutique Narjis,9.2,484.0,Riyadh,0,0,0,0,0,1,0,0,0
+1870,Sarwat Park Hotel Riyadh,8.1,888.0,Riyadh,0,0,0,0,0,0,0,1,0
+1871,Al Muhaidb Al Diwan - Al Olaya,6.8,320.0,Riyadh,0,0,0,0,0,0,0,1,0
+1872,Mira Business Hotel,7.8,622.0,Riyadh,0,0,0,0,0,0,1,0,1
+1876,Four Seasons Hotel Riyadh,8.9,9000.0,Riyadh,0,0,0,0,0,0,0,1,0
+1881,Hilton Riyadh Hotel & Residences,8.3,2094.0,Riyadh,0,0,0,0,0,0,0,1,0
+1882,InterContinental Hotels RIYADH,7.7,1340.0,Riyadh,0,0,0,0,0,0,0,1,0
+1887,Radisson Hotel & Residence Riyadh Olaya,9.1,1078.0,Riyadh,0,0,0,0,0,0,0,1,0
+1888,Almuhaidb Al Takhasosi Hotel,7.8,340.0,Riyadh,0,0,0,0,0,0,0,1,0
+1890,Boudl Al Qasr,7.4,723.0,Riyadh,0,0,0,0,0,1,0,1,0
+1891,Rose Garden Hotel,6.7,363.0,Riyadh,0,0,0,0,0,1,0,0,0
+1892,Tu Jardin - Qurtubah,7.2,201.0,Riyadh,0,0,0,0,0,0,0,0,0
+1893,Grand Plaza Hotel - Takhasosi Riyadh,8.3,11127.0,Riyadh,0,0,0,0,1,0,0,0,0
+1895,Voyage Residence,8.8,426.0,Riyadh,0,0,0,0,0,0,0,1,0
+1896,Myrtle,6.8,475.0,Riyadh,0,0,0,0,0,1,0,0,0
+1897,Braira Qurtubah Riyadh,8.2,979.0,Riyadh,0,0,0,0,0,0,0,1,0
+1899,Braira Al Wezarat,8.4,789.0,Riyadh,0,0,0,0,0,0,0,1,0
+1902,Boudl Al Munsiyah,8.0,516.0,Riyadh,0,0,0,0,0,0,0,1,0
+1907,Aber Al Yasmin 101,8.1,716.0,Riyadh,0,0,0,1,0,0,0,0,0
+1915,Aber Al Takhassusi hotel,8.5,731.0,Riyadh,0,0,0,0,0,0,0,1,0
+1918,Jareed Hotel Riyadh,9.0,4501.0,Riyadh,0,0,0,0,0,0,0,1,0
+1922,Courtyard Riyadh Diplomatic Quarter,8.1,634.0,Riyadh,0,0,0,0,0,0,0,1,0
+1927,Rafa Homes Al Izdihar 1,7.7,225.0,Riyadh,0,0,0,0,0,0,0,0,0
+1928,Comfort Hotel Riyadh Olaya,9.5,900.0,Riyadh,0,0,0,0,1,0,0,0,0
+1930,Braira Qurtubah Riyadh,8.2,874.0,Riyadh,0,0,0,0,0,0,0,1,0
+1932,Braira Al Wezarat,8.4,796.0,Riyadh,0,0,0,0,0,0,0,1,0
+1939,DoubleTree by Hilton Riyadh - Al Muroj Business Gate,7.3,1430.0,Riyadh,0,0,0,0,1,0,0,0,0
+1943,Mena Andalusia Hotel,6.3,317.0,Riyadh,0,0,0,0,0,1,0,0,0
+1949,Aber Al Takhassusi hotel,8.5,708.0,Riyadh,0,0,0,0,0,0,0,1,0
+1952,Aber Al Yasmin,8.4,795.0,Riyadh,0,0,0,0,0,0,0,1,0
+1958,Courtyard Riyadh Diplomatic Quarter,8.1,1216.0,Riyadh,0,0,0,0,0,0,0,1,0
+1961,Ross Hotel,8.5,700.0,Riyadh,0,0,0,0,1,0,0,0,0
+1963,"Marriott Executive Apartments Riyadh, Convention Center",8.7,893.0,Riyadh,0,0,0,0,1,0,0,1,0
+1964,Crowne Plaza Hotel Riyadh Minhal,8.6,765.0,Riyadh,0,0,0,0,0,0,0,1,0
+1973,Centro Olaya by Rotana,7.9,1013.0,Riyadh,0,0,0,0,0,0,0,1,0
+1974,Hilton Riyadh Hotel & Residences,8.3,4736.0,Riyadh,0,0,0,0,0,0,0,1,0
+1975,InterContinental Hotels RIYADH,7.7,2302.0,Riyadh,0,0,0,0,0,0,0,1,0
+1976,"InterContinental Durrat Al Riyadh Resort & Spa, an IHG Hotel",8.3,2610.0,Riyadh,0,0,0,0,1,0,0,0,0
+1979,Le Méridien Riyadh,8.3,5100.0,Riyadh,0,0,0,0,0,0,0,1,0
+1980,Holiday Inn RIYADH - AL QASR,7.1,979.0,Riyadh,0,0,0,0,0,0,0,1,0
+1984,Fraser Suites Riyadh,8.1,1157.0,Riyadh,0,0,0,0,1,0,0,0,0
+1985,Radisson Hotel & Residence Riyadh Olaya,9.1,1347.0,Riyadh,0,0,0,0,0,0,0,1,0
+1986,Ascott Rafal Olaya Riyadh,7.9,2328.0,Riyadh,0,0,0,0,1,0,0,0,0
+1987,Almuhaidb Al Takhasosi Hotel,7.8,314.0,Riyadh,0,0,0,0,0,0,0,1,0
+1988,Ewaa Express Hotel - Al Olaya,8.6,601.0,Riyadh,0,0,0,0,0,0,0,1,0
+1989,Almuhaidb Altakhassusi 5,7.5,323.0,Riyadh,0,0,0,0,0,0,0,1,0
+1990,Art View Hotel,7.9,747.0,Riyadh,0,0,0,0,0,0,0,1,0
+1991,Almuhaidb Salahuddin- Almalaz,7.7,310.0,Riyadh,0,0,0,0,0,0,0,1,0
+1992,Dorar Darea Hotel Apartments - Al Nafl,7.2,232.0,Riyadh,0,0,0,0,0,1,0,0,0
+1993,Courtyard by Marriott Riyadh Northern Ring Road,8.2,2199.0,Riyadh,0,0,0,0,0,0,0,1,0
+1994,Grand Plaza Hotel - Dhabab Riyadh,8.3,575.0,Riyadh,0,0,0,0,1,0,0,0,0
+1999,Braira Al Wezarat,8.4,794.0,Riyadh,0,0,0,0,0,0,0,1,0
+2002,Hdb Hotel Financal District,7.3,537.0,Riyadh,0,0,0,0,0,0,0,1,0
+2004,InterContinental Hotels RIYADH,7.7,3309.0,Riyadh,0,0,0,0,0,0,0,1,0
+2005,"InterContinental Durrat Al Riyadh Resort & Spa, an IHG Hotel",8.3,3150.0,Riyadh,0,0,0,0,1,0,0,0,0
+2006,Hilton Garden Inn Riyadh Financial District,7.8,1970.0,Riyadh,0,0,0,0,0,0,0,1,0
+2007,Holiday Inn RIYADH - AL QASR,7.1,955.0,Riyadh,0,0,0,0,0,0,0,1,0
+2012,Radisson Hotel & Residence Riyadh Olaya,9.1,1319.0,Riyadh,0,0,0,0,0,0,0,1,0
+2015,JW Marriott Hotel Riyadh,7.8,6050.0,Riyadh,0,0,0,0,1,0,0,0,0
+2018,Comfort Inn Taawn,5.5,500.0,Riyadh,0,0,0,0,1,0,0,0,0
+2019,Sixty Three Hotel,7.0,286.0,Riyadh,0,0,0,0,1,0,0,0,0
+2020,Braira Qurtubah Riyadh,8.2,1389.0,Riyadh,0,0,0,0,0,0,0,1,0
+2028,Hilton Riyadh Hotel & Residences,8.3,5059.0,Riyadh,0,0,0,0,0,0,0,1,0
+2030,"Park Inn by Radisson, Riyadh",8.3,982.0,Riyadh,0,0,0,0,0,0,0,1,0
+2033,DoubleTree by Hilton Riyadh Financial District Hotel & Suites,8.5,3982.0,Riyadh,0,0,0,0,0,0,0,1,0
+2034,Rosh Rayhaan by Rotana,8.5,3728.0,Riyadh,0,0,0,0,0,0,0,1,0
+2035,Hyatt Place Riyadh Sulaimania,8.5,2363.0,Riyadh,0,0,0,0,0,0,0,1,0
+2036,Boudl Al Malaz,6.8,643.0,Riyadh,0,0,0,0,0,0,0,1,0
+2037,Boudl Gaber,8.1,496.0,Riyadh,0,0,0,0,1,1,0,0,0
+2038,Holiday Inn RIYADH THE BUSINESS DISTRICT,8.7,2490.0,Riyadh,0,0,0,0,0,0,0,1,0
+2039,Seven Gardens Hotel,9.0,539.0,Riyadh,0,0,0,0,0,0,0,1,0
+2041,Novotel Suites Riyadh Olaya,7.3,544.0,Riyadh,0,0,0,0,0,0,0,1,0
+2042,Ramada Riyadh,7.9,1674.0,Riyadh,0,0,0,0,0,0,0,1,0
+2043,Ewaa Express Hotel - Khorais,8.3,466.0,Riyadh,0,0,0,0,1,0,0,0,0
+2048,Braira Qurtubah Riyadh,8.2,1597.0,Riyadh,0,0,0,0,0,0,0,1,0
+2050,Braira Al Wezarat,8.4,1106.0,Riyadh,0,0,0,0,0,0,0,1,0
+2055,Myrtle Al Sahafa,7.5,660.0,Riyadh,0,0,0,0,0,1,0,0,0
+2056,Hilton Riyadh Hotel & Residences,8.3,4424.0,Riyadh,0,0,0,0,0,0,0,1,0
+2057,Aber Al Takhassusi hotel,8.5,720.0,Riyadh,0,0,0,0,0,0,0,1,0
+2058,"Park Inn by Radisson, Riyadh",8.3,1350.0,Riyadh,0,0,0,0,0,0,0,1,0
+2061,DoubleTree by Hilton Riyadh Financial District Hotel & Suites,8.5,3081.0,Riyadh,0,0,0,0,0,0,0,1,0
+2062,Rosh Rayhaan by Rotana,8.5,3423.0,Riyadh,0,0,0,0,0,0,0,1,0
+2063,Hyatt Place Riyadh Sulaimania,8.5,1875.0,Riyadh,0,0,0,0,0,0,0,1,0
+2064,Boudl Al Malaz,6.8,683.0,Riyadh,0,0,0,0,0,0,0,1,0
+2065,Al Malqa Elite Hotel,7.5,560.0,Riyadh,0,0,0,0,0,0,0,0,0
+2066,Ramada by Wyndham Riyadh King Fahd Road,8.2,1270.0,Riyadh,0,0,0,0,0,0,0,1,0
+2067,Boudl Gaber,8.1,532.0,Riyadh,0,0,0,0,1,1,0,0,0
+2068,Al Mashreq Boutique Hotel,7.7,815.0,Riyadh,0,0,0,0,0,0,0,1,0
+2069,Continent Hotel Al Waha Riyad,7.7,621.0,Riyadh,0,0,0,0,0,0,0,1,0
+2072,Novotel Suites Riyadh Olaya,7.3,623.0,Riyadh,0,0,0,0,0,0,0,1,0
+2074,Ewaa Express Hotel - Khorais,8.3,450.0,Riyadh,0,0,0,0,1,0,0,0,0
+2076,Ross Hotel,8.5,765.0,Riyadh,0,0,0,0,1,0,0,0,0
+2079,Al Diafa Apartment Olaya,7.9,431.0,Riyadh,0,0,0,0,0,0,0,1,0
+2080,Almuhaidb Salahuddin- Almalaz,7.7,327.0,Riyadh,0,0,0,0,0,0,0,1,0
+2081,Dorar Darea Hotel Apartments - Al Nafl,7.2,245.0,Riyadh,0,0,0,0,0,1,0,0,0
+2082,Courtyard by Marriott Riyadh Northern Ring Road,8.2,3000.0,Riyadh,0,0,0,0,0,0,0,1,0
+2086,Hyatt Buyutat,6.5,855.0,Riyadh,0,0,0,0,1,0,0,0,0
+2087,Voyage Residence,8.8,374.0,Riyadh,0,0,0,0,0,0,0,1,0
+2089,Al Aqeeq Madinah Hotel,7.9,600.0,Medina,0,0,0,0,0,0,0,1,0
+2090,InterContinental DAR AL HIJRA MADINAH,8.5,720.0,Medina,0,0,0,0,1,1,0,0,0
+2091,Emaar Elite Al Madina Hotel,7.6,540.0,Medina,0,0,0,0,1,0,0,0,0
+2092,Zowar International Hotel,6.9,413.0,Medina,0,0,0,0,1,0,0,0,0
+2093,Emaar Taiba Hotel,6.0,262.0,Medina,0,0,0,0,0,1,0,0,0
+2094,Elaf Al Taqwa Hotel,9.0,435.0,Medina,0,0,0,0,1,0,0,0,0
+2095,Anwar Al Madinah Movenpick Hotel,7.0,919.0,Medina,0,0,0,0,1,0,0,0,0
+2096,Al Eairy Furnished Apts Al Madinah 14,4.9,122.0,Medina,0,0,0,0,0,1,0,0,0
+2097,Saja Al Madinah,7.6,532.0,Medina,0,0,1,0,1,0,0,0,0
+2098,Pullman Zamzam Madina,8.1,713.0,Medina,0,0,0,0,0,0,0,1,0
+2099,"The Oberoi, Madina",8.9,5351.0,Medina,0,0,0,0,0,1,0,0,0
+2100,Zaha Al Munawara Hotel,7.8,238.0,Medina,0,0,0,0,0,0,0,0,0
+2101,Grand Zowar Hotel,5.7,274.0,Medina,0,0,0,0,0,1,0,0,0
+2103,Zowar International Hotel,6.9,406.0,Medina,0,0,0,0,1,0,0,0,0
+2104,Emaar Taiba Hotel,6.0,257.0,Medina,0,0,0,0,0,1,0,0,0
+2106,Anwar Al Madinah Movenpick Hotel,7.0,900.0,Medina,0,0,0,0,1,0,0,0,0
+2109,Pullman Zamzam Madina,8.1,642.0,Medina,0,0,0,0,0,0,0,1,0
+2110,"The Oberoi, Madina",8.9,2779.0,Medina,0,0,0,0,0,1,0,0,0
+2114,Zowar International Hotel,6.9,387.0,Medina,0,0,0,0,1,0,0,0,0
+2115,Emaar Taiba Hotel,6.0,245.0,Medina,0,0,0,0,0,1,0,0,0
+2117,Saja Al Madinah,7.6,495.0,Medina,0,0,1,0,1,0,0,0,0
+2119,"The Oberoi, Madina",8.9,4470.0,Medina,0,0,0,0,0,1,0,0,0
+2122,InterContinental MADINAH-DAR AL IMAN,8.7,1195.0,Medina,0,0,0,0,1,0,0,0,0
+2123,Madinah Hilton,8.3,998.0,Medina,0,0,0,0,1,0,0,0,0
+2124,Hayah Al Waha Hotel,5.2,205.0,Medina,0,0,1,0,0,1,0,0,0
+2125,Odst Al Madinah Hotel,6.5,350.0,Medina,0,0,0,0,1,0,0,0,0
+2126,Flavor Hotel,8.5,500.0,Medina,0,0,0,0,0,1,0,0,0
+2127,Hayah Plaza Hotel,5.8,255.0,Medina,0,0,0,0,1,0,0,0,0
+2128,Al Eairy Furnished Apts Al Madinah 8,6.5,143.0,Medina,0,0,0,0,0,0,0,0,0
+2129,Millennium Madinah Airport,7.8,495.0,Medina,0,0,0,0,1,0,0,0,0
+2130,Taiba Front Hotel,7.3,833.0,Medina,0,0,0,0,1,0,0,0,0
+2131,Dallah Taibah Hotel,8.7,1073.0,Medina,0,0,0,0,1,1,0,0,0
+2132,Taiba Madinah Hotel,8.4,641.0,Medina,0,0,0,0,1,0,0,0,0
+2133,Taiba Suites Madinah,8.5,800.0,Medina,0,1,0,0,0,0,0,0,0
+2134,Araek Taiba Hotel,5.5,260.0,Medina,0,0,0,0,0,0,0,0,0
+2135,فندق ايي E Hotel,9.0,255.0,Medina,0,0,0,0,1,0,0,0,0
+2136,Al Mokhtara Diamond,6.6,320.0,Medina,0,0,0,0,0,1,0,0,0
+2137,Badrani B - Qaswarah Residence,8.5,181.0,Medina,0,0,0,0,0,0,0,0,0
+2138,New Madinah Hotel,7.7,608.0,Medina,0,0,0,0,1,0,0,0,0
+2142,"The Oberoi, Madina",8.9,2308.0,Medina,0,0,0,0,0,1,0,0,0
+2145,Madinah Hilton,8.3,1026.0,Medina,0,0,0,0,1,0,0,0,0
+2147,Sofitel Shahd Al Madinah,8.0,856.0,Medina,0,0,0,0,1,0,0,0,0
+2157,Saja Al Madinah,7.6,545.0,Medina,0,0,1,0,1,0,0,0,0
+2163,Emaar Elite Al Madina Hotel,7.6,555.0,Medina,0,0,0,0,1,0,0,0,0
+2168,Saja Al Madinah,7.6,526.0,Medina,0,0,1,0,1,0,0,0,0
+2173,InterContinental MADINAH-DAR AL IMAN,8.7,990.0,Medina,0,0,0,0,1,0,0,0,0
+2177,Al Aqeeq Madinah Hotel,7.9,680.0,Medina,0,0,0,0,0,0,0,1,0
+2180,Emaar Royal Hotel,8.3,664.0,Medina,0,0,0,0,1,0,0,0,0
+2181,Al Mokhtara Diamond,6.6,281.0,Medina,0,0,0,0,0,1,0,0,0
+2185,Saja Al Madinah,7.6,599.0,Medina,0,0,1,0,1,0,0,0,0
+2190,InterContinental MADINAH-DAR AL IMAN,8.7,1479.0,Medina,0,0,0,0,1,0,0,0,0
+2193,Sidrathul Aaliya Golden Hotel,5.7,144.0,Medina,0,0,0,0,0,0,0,0,0
+2194,Hayah Golden Hotel,6.4,283.0,Medina,0,0,0,0,0,1,0,0,0
+2195,Hayah Al Huda,5.9,235.0,Medina,0,0,0,0,1,0,0,0,0
+2196,Hayah Diamond Hotel,6.9,235.0,Medina,0,0,0,0,0,1,0,0,0
+2197,Zaha Taiba Hotel,8.5,305.0,Medina,0,0,0,0,0,0,1,0,1
+2199,Al Manakha Rotana Madinah,8.1,676.0,Medina,0,0,0,0,0,0,0,0,0
+2200,Hayah Grand Hotel,6.0,235.0,Medina,0,0,0,0,1,0,0,0,0
+2201,Rove Al Madinah Hotel,8.0,600.0,Medina,0,0,0,0,1,0,0,0,0
+2202,Marriott Executive Apartments Madinah,8.9,855.0,Medina,0,0,0,0,0,0,0,1,0
+2204,Grand Plaza Al Madina,6.8,366.0,Medina,0,0,0,0,1,0,0,0,0
+2205,Rua Al Hijrah Hotel,8.1,663.0,Medina,0,0,0,0,0,0,0,0,0
+2206,MADEN HOTEL,8.4,1299.0,Medina,0,0,0,0,1,0,0,0,0
+2208,Al Rawda Royal Inn,7.6,696.0,Medina,0,0,0,0,1,0,0,0,0
+2209,Elaf Al Taqwa Hotel,9.0,519.0,Medina,0,0,0,0,1,0,0,0,0
+2212,Pullman Zamzam Madina,8.1,754.0,Medina,0,0,0,0,0,0,0,1,0
+2221,Anwar Al Madinah Movenpick Hotel,7.0,1192.0,Medina,0,0,0,0,1,0,0,0,0
+2230,Zowar International Hotel,6.9,450.0,Medina,0,0,0,0,1,0,0,0,0
+2231,Emaar Taiba Hotel,6.0,357.0,Medina,0,0,0,0,0,1,0,0,0
+2235,Saja Al Madinah,7.6,530.0,Medina,0,0,1,0,1,0,0,0,0
+2241,Elaf Al Taqwa Hotel,9.0,650.0,Medina,0,0,0,0,1,0,0,0,0
+2245,Dar Al Taqwa Hotel Madinah,8.8,1235.0,Medina,0,0,0,0,1,0,0,0,0
+2248,Emaar Taiba Hotel,6.0,253.0,Medina,0,0,0,0,0,1,0,0,0
+2251,Saja Al Madinah,7.6,544.0,Medina,0,0,1,0,1,0,0,0,0
+2252,Pullman Zamzam Madina,8.1,651.0,Medina,0,0,0,0,0,0,0,1,0
+2254,Zaha Al Munawara Hotel,7.8,280.0,Medina,0,0,0,0,0,0,0,0,0
+2256,InterContinental MADINAH-DAR AL IMAN,8.7,1739.0,Medina,0,0,0,0,1,0,0,0,0
+2257,Madinah Hilton,8.3,1129.0,Medina,0,0,0,0,1,0,0,0,0
+2262,Dar Al Taqwa Hotel Madinah,8.8,1756.0,Medina,0,0,0,0,1,0,0,0,0
+2264,Elaf Al Taqwa Hotel,9.0,706.0,Medina,0,0,0,0,1,0,0,0,0
+2267,Saja Al Madinah,7.6,490.0,Medina,0,0,1,0,1,0,0,0,0
+2268,Pullman Zamzam Madina,8.1,602.0,Medina,0,0,0,0,0,0,0,1,0
+2273,Zowar International Hotel,6.9,421.0,Medina,0,0,0,0,1,0,0,0,0
+2274,Emaar Taiba Hotel,6.0,267.0,Medina,0,0,0,0,0,1,0,0,0
+2276,Anwar Al Madinah Movenpick Hotel,7.0,1325.0,Medina,0,0,0,0,1,0,0,0,0
+2302,Pullman Zamzam Madina,8.1,604.0,Medina,0,0,0,0,0,0,0,1,0
+2307,Madinah Hilton,8.3,1078.0,Medina,0,0,0,0,1,0,0,0,0
+2313,Sofitel Shahd Al Madinah,8.0,998.0,Medina,0,0,0,0,1,0,0,0,0
+2314,Dar Al Taqwa Hotel Madinah,8.8,1208.0,Medina,0,0,0,0,1,0,0,0,0
+2315,InterContinental DAR AL HIJRA MADINAH,8.5,1035.0,Medina,0,0,0,0,1,1,0,0,0
+2318,Tulip Inn Al Daar Rawafid,8.0,471.0,Medina,0,0,0,0,1,0,0,0,0
+2319,Artal Taiba Hotel,7.3,179.0,Medina,0,0,0,0,0,1,0,0,0
+2322,Elaf Al Taqwa Hotel,9.0,998.0,Medina,0,0,0,0,1,0,0,0,0
+2330,InterContinental MADINAH-DAR AL IMAN,8.7,1440.0,Medina,0,0,0,0,1,0,0,0,0
+2338,Pullman Zamzam Madina,8.1,1135.0,Medina,0,0,0,0,0,0,0,1,0
+2342,Madinah Hilton,8.3,1111.0,Medina,0,0,0,0,1,0,0,0,0
+2344,Elaf Al Taqwa Hotel,9.0,1050.0,Medina,0,0,0,0,1,0,0,0,0
+2348,Pullman Zamzam Madina,8.1,1192.0,Medina,0,0,0,0,0,0,0,1,0
+2368,Pullman Zamzam Madina,8.1,645.0,Medina,0,0,0,0,0,0,0,1,0
+2379,Pullman Zamzam Madina,8.1,679.0,Medina,0,0,0,0,0,0,0,1,0
+2398,Emaar Taiba Hotel,6.0,356.0,Medina,0,0,0,0,0,1,0,0,0
+2399,Elaf Kinda Hotel,7.8,664.0,Makkah,0,0,0,0,1,1,0,0,0
+2400,Pullman ZamZam Makkah,6.7,767.0,Makkah,0,0,0,0,1,1,0,0,0
+2401,Al Safwah Royale Orchid Hotel,7.3,581.0,Makkah,0,0,0,0,1,0,0,0,0
+2402,Emaar Al Noor,7.8,81.0,Makkah,0,0,0,0,1,0,0,0,0
+2403,Anjum Hotel Makkah,8.5,688.0,Makkah,0,0,0,0,1,0,0,0,0
+2404,Mercure Makkah Aziziah,8.3,120.0,Makkah,0,0,0,0,1,0,0,0,0
+2405,Hilton Makkah Convention Hotel,8.2,723.0,Makkah,0,0,0,0,1,0,0,0,0
+2406,Jabal Omar Hyatt Regency Makkah,8.6,927.0,Makkah,0,0,0,0,1,0,0,0,0
+2407,Millennium & Copthorne Makkah Al Naseem,7.8,160.0,Makkah,0,0,0,0,1,0,0,0,0
+2408,Movenpick Hotel And Residences Hajar Tower Makkah,8.0,835.0,Makkah,0,0,0,0,1,0,0,0,0
+2409,Four Points by Sheraton Makkah Al Naseem,8.3,246.0,Makkah,0,1,0,1,0,0,0,0,0
+2410,Al Ebaa Hotel,8.0,254.0,Makkah,0,0,0,0,1,0,0,0,0
+2411,Makkah Tower,7.7,945.0,Makkah,0,0,0,0,1,0,0,0,0
+2412,Kyona Alaziziyah,6.4,57.0,Makkah,0,0,0,0,0,1,0,0,0
+2413,Emaar Grand Hotel,7.8,276.0,Makkah,0,0,0,0,1,0,0,0,0
+2414,InterContinental DAR AL TAWHID MAKKAH,8.8,1215.0,Makkah,0,0,0,0,1,1,0,0,0
+2415,"Jabal Omar Marriott Hotel, Makkah",8.4,746.0,Makkah,0,0,0,0,0,0,0,0,0
+2416,Makarem Umm Al Qura Hotel,7.6,242.0,Makkah,0,0,0,0,1,0,0,0,0
+2417,Hilton Suites Makkah,8.5,785.0,Makkah,0,0,0,0,1,0,0,0,0
+2418,Conrad Makkah,8.6,961.0,Makkah,0,0,0,0,1,1,0,0,0
+2419,Elaf Bakkah Hotel,7.9,149.0,Makkah,0,0,0,0,1,0,0,0,0
+2420,Copthorne Makkah Al Nasseem,7.7,125.0,Makkah,0,0,0,0,1,0,0,0,0
+2421,Midan Hotel,8.3,124.0,Makkah,0,0,0,0,1,1,0,0,0
+2422,TIME Ruba Hotel & Suites,8.9,166.0,Makkah,0,0,0,0,0,0,0,1,0
+2423,Raffles Makkah Palace,8.7,2089.0,Makkah,0,0,0,0,1,0,0,0,0
+2424,Violet Al Azizia Hotel,8.0,178.0,Makkah,0,0,0,0,1,0,0,1,0
+2425,Al Hidayah Towers,8.1,105.0,Makkah,0,0,0,0,0,0,0,0,0
+2426,Snood Al-Dana Hotel,7.7,90.0,Makkah,0,0,0,0,0,1,0,0,0
+2427,Millennium & Copthorne Makkah Al Naseem,7.8,334.0,Makkah,0,0,0,0,1,0,0,0,0
+2428,Four Points by Sheraton Makkah Al Naseem,8.3,240.0,Makkah,0,1,0,1,0,0,0,0,0
+2430,Makkah Al Aziziah,7.2,150.0,Makkah,0,0,0,0,0,0,0,0,0
+2431,voco Makkah an IHG Hotel,8.8,275.0,Makkah,0,0,0,0,1,1,0,0,0
+2432,Swissotel Al Maqam Makkah,8.1,621.0,Makkah,0,0,0,0,1,0,0,0,0
+2433,Park Inn by Radisson Makkah Al Naseem,7.9,161.0,Makkah,0,0,0,0,1,0,0,0,0
+2434,Address Jabal Omar Makkah,9.1,925.0,Makkah,0,0,0,0,1,0,0,0,0
+2435,ibis Styles Makkah,7.9,97.0,Makkah,0,1,0,0,1,0,0,0,0
+2436,Makkah Clock Royal Tower A Fairmont Hotel,8.2,1155.0,Makkah,0,0,0,0,1,0,0,0,0
+2437,Al Kiswah Towers Hotel,7.4,160.0,Makkah,0,0,1,0,0,0,0,0,0
+2438,Swissôtel Makkah,8.5,856.0,Makkah,0,0,0,0,1,0,0,0,0
+2439,Movenpick Hotel And Residences Hajar Tower Makkah,8.0,1235.0,Makkah,0,0,0,0,1,0,0,0,0
+2440,Four Points by Sheraton Makkah Al Naseem,8.3,160.0,Makkah,0,1,0,1,0,0,0,0,0
+2441,Al Ebaa Hotel,8.0,273.0,Makkah,0,0,0,0,1,0,0,0,0
+2443,voco Makkah an IHG Hotel,8.8,264.0,Makkah,0,0,0,0,1,1,0,0,0
+2444,Swissotel Al Maqam Makkah,8.1,567.0,Makkah,0,0,0,0,1,0,0,0,0
+2445,Novotel Makkah Thakher City,8.2,168.0,Makkah,0,0,0,0,1,0,0,0,0
+2446,ibis Styles Makkah,7.9,108.0,Makkah,0,1,0,0,1,0,0,0,0
+2447,Al Kiswah Towers Hotel,7.4,130.0,Makkah,0,0,1,0,0,0,0,0,0
+2448,Sheraton Makkah Jabal Al Kaaba,8.2,738.0,Makkah,0,0,0,0,1,0,0,0,0
+2449,Doubletree By Hilton Makkah Jabal Omar,8.5,574.0,Makkah,0,0,0,0,1,0,0,0,0
+2451,Al Safwah Royale Orchid Hotel,7.3,645.0,Makkah,0,0,0,0,1,0,0,0,0
+2452,InterContinental DAR AL TAWHID MAKKAH,8.8,1407.0,Makkah,0,0,0,0,1,1,0,0,0
+2454,Hilton Suites Makkah,8.5,742.0,Makkah,0,0,0,0,1,0,0,0,0
+2455,Jumeirah Jabal Omar Makkah,9.0,878.0,Makkah,0,0,0,0,1,0,0,1,0
+2456,Dorar Al Eiman Royal,8.3,1081.0,Makkah,0,0,0,0,1,0,0,0,0
+2457,Al Shohada Hotel,7.9,638.0,Makkah,0,0,0,0,1,0,0,0,0
+2458,Midan Hotel,8.3,200.0,Makkah,0,0,0,0,1,1,0,0,0
+2461,Le Méridien Makkah,7.9,475.0,Makkah,0,0,0,0,1,1,0,0,0
+2462,Al Noor Hotel,6.0,86.0,Makkah,0,0,0,0,0,0,0,0,0
+2467,Sheraton Makkah Jabal Al Kaaba,8.2,571.0,Makkah,0,0,0,0,1,0,0,0,0
+2469,Pullman ZamZam Makkah,6.7,724.0,Makkah,0,0,0,0,1,1,0,0,0
+2470,Al Safwah Royale Orchid Hotel,7.3,635.0,Makkah,0,0,0,0,1,0,0,0,0
+2471,Emaar Al Noor,7.8,90.0,Makkah,0,0,0,0,1,0,0,0,0
+2472,"Jabal Omar Marriott Hotel, Makkah",8.4,495.0,Makkah,0,0,0,0,0,0,0,0,0
+2473,Makarem Umm Al Qura Hotel,7.6,230.0,Makkah,0,0,0,0,1,0,0,0,0
+2474,Hilton Suites Makkah,8.5,761.0,Makkah,0,0,0,0,1,0,0,0,0
+2476,Jumeirah Jabal Omar Makkah,9.0,800.0,Makkah,0,0,0,0,1,0,0,1,0
+2477,Dorar Al Eiman Royal,8.3,792.0,Makkah,0,0,0,0,1,0,0,0,0
+2479,Midan Hotel,8.3,127.0,Makkah,0,0,0,0,1,1,0,0,0
+2480,Le Méridien Makkah,7.9,425.0,Makkah,0,0,0,0,1,1,0,0,0
+2481,Wirgan Hotel Al Azizyah,8.9,11186.0,Makkah,0,0,0,0,1,0,0,0,0
+2482,Qasr Al Sahab Hotel Makkah,8.5,271.0,Makkah,0,0,0,0,1,1,0,0,0
+2483,Lamar Ajyad Hotel 2 - Tower B,7.0,160.0,Makkah,0,0,0,0,1,0,0,0,0
+2484,Makarem Al Bait Hotel,6.8,100.0,Makkah,0,0,0,0,0,1,0,0,0
+2485,Reefaf Alhaya Hotel,7.4,168.0,Makkah,0,0,0,0,0,1,0,0,0
+2486,Blue Coral Hotel,7.8,172.0,Makkah,0,0,0,0,1,0,0,0,0
+2487,Park Inn by Radisson Makkah Thakher Alsharqi,8.8,131.0,Makkah,0,0,0,0,1,1,0,0,0
+2488,Al Shahba Hotel Makkah,7.3,106.0,Makkah,0,0,0,0,1,1,0,0,0
+2489,OYO 167 Dar Al Raies Hotel,6.8,83.0,Makkah,0,0,0,0,0,1,0,0,0
+2493,Novotel Makkah Thakher City,8.2,172.0,Makkah,0,0,0,0,1,0,0,0,0
+2494,Address Jabal Omar Makkah,9.1,809.0,Makkah,0,0,0,0,1,0,0,0,0
+2496,Makkah Clock Royal Tower A Fairmont Hotel,8.2,935.0,Makkah,0,0,0,0,1,0,0,0,0
+2498,Swissôtel Makkah,8.5,761.0,Makkah,0,0,0,0,1,0,0,0,0
+2505,Makkah Clock Royal Tower A Fairmont Hotel,8.2,833.0,Makkah,0,0,0,0,1,0,0,0,0
+2506,Swissôtel Makkah,8.5,784.0,Makkah,0,0,0,0,1,0,0,0,0
+2507,Pullman ZamZam Makkah,6.7,691.0,Makkah,0,0,0,0,1,1,0,0,0
+2508,Al Safwah Royale Orchid Hotel,7.3,630.0,Makkah,0,0,0,0,1,0,0,0,0
+2509,Al Marwa Rayhaan by Rotana,7.9,1074.0,Makkah,0,0,0,0,1,0,0,0,0
+2510,Makkah Hotel,8.6,878.0,Makkah,0,0,0,0,1,0,0,0,0
+2511,Makarem Ajyad Makkah Hotel,8.3,652.0,Makkah,0,0,0,0,1,1,0,0,0
+2519,M Hotel Makkah by Millennium,7.6,203.0,Makkah,0,0,0,0,1,1,0,0,0
+2522,Novotel Makkah Thakher City,8.2,164.0,Makkah,0,0,0,0,1,0,0,0,0
+2525,Sheraton Makkah Jabal Al Kaaba,8.2,554.0,Makkah,0,0,0,0,1,0,0,0,0
+2526,Doubletree By Hilton Makkah Jabal Omar,8.5,600.0,Makkah,0,0,0,0,1,0,0,0,0
+2527,Al Safwah Royale Orchid Hotel,7.3,733.0,Makkah,0,0,0,0,1,0,0,0,0
+2529,Jabal Omar Hyatt Regency Makkah,8.6,1197.0,Makkah,0,0,0,0,1,0,0,0,0
+2530,Jumeirah Jabal Omar Makkah,9.0,988.0,Makkah,0,0,0,0,1,0,0,1,0
+2531,Dorar Al Eiman Royal,8.3,1230.0,Makkah,0,0,0,0,1,0,0,0,0
+2535,Wirgan Hotel Al Azizyah,8.9,11286.0,Makkah,0,0,0,0,1,0,0,0,0
+2536,M Hotel Al Dana Makkah by Millennium,7.9,139.0,Makkah,0,0,0,0,1,0,0,0,0
+2537,Makkah Hotel,8.8,968.0,Makkah,0,0,0,0,0,1,0,0,0
+2538,Palestine Hotel Makkah,6.8,200.0,Makkah,0,0,0,0,1,0,0,0,0
+2539,Yasmin Al Majd,8.0,199.0,Makkah,0,0,1,0,0,0,0,0,0
+2542,Novotel Makkah Thakher City,8.2,237.0,Makkah,0,0,0,0,1,0,0,0,0
+2544,Pullman ZamZam Makkah,6.7,939.0,Makkah,0,0,0,0,1,1,0,0,0
+2546,Jabal Omar Hyatt Regency Makkah,8.6,828.0,Makkah,0,0,0,0,1,0,0,0,0
+2547,Movenpick Hotel And Residences Hajar Tower Makkah,8.0,887.0,Makkah,0,0,0,0,1,0,0,0,0
+2549,Makkah Al Aziziah,7.2,147.0,Makkah,0,0,0,0,0,0,0,0,0
+2553,Le Méridien Makkah,7.9,525.0,Makkah,0,0,0,0,1,1,0,0,0
+2554,Batoul Ajyad,6.8,234.0,Makkah,0,0,0,0,1,0,0,0,0
+2556,Worth Elite Hotel,8.2,250.0,Makkah,0,0,0,0,0,0,0,0,0
+2559,Emaar Andalusia,7.3,205.0,Makkah,0,0,1,0,1,0,0,0,0
+2567,Doubletree By Hilton Makkah Jabal Omar,8.5,590.0,Makkah,0,0,0,0,1,0,0,0,0
+2568,Pullman ZamZam Makkah,6.7,805.0,Makkah,0,0,0,0,1,1,0,0,0
+2569,Al Safwah Royale Orchid Hotel,7.3,601.0,Makkah,0,0,0,0,1,0,0,0,0
+2571,Makarem Umm Al Qura Hotel,7.6,273.0,Makkah,0,0,0,0,1,0,0,0,0
+2574,Jumeirah Jabal Omar Makkah,9.0,881.0,Makkah,0,0,0,0,1,0,0,1,0
+2575,Dorar Al Eiman Royal,8.3,1087.0,Makkah,0,0,0,0,1,0,0,0,0
+2580,Al Noor Hotel,6.0,84.0,Makkah,0,0,0,0,0,0,0,0,0
+2584,Novotel Makkah Thakher City,8.2,171.0,Makkah,0,0,0,0,1,0,0,0,0
+2590,Four Points by Sheraton Makkah Al Naseem,8.3,172.0,Makkah,0,1,0,1,0,0,0,0,0
+2612,Wirgan Hotel Al Azizyah,8.9,11563.0,Makkah,0,0,0,0,1,0,0,0,0
+2613,Al Ghufran Safwah Hotel Makkah,8.8,1623.0,Makkah,0,0,0,0,1,0,0,0,0
+2615,Violet Al Shisha Hotel,8.1,212.0,Makkah,0,0,1,0,0,1,0,0,0
+2616,Nawazi Towers Hotel,8.1,166.0,Makkah,0,0,0,0,1,0,0,0,0
+2617,Violet Al-Shisha,7.8,142.0,Makkah,1,0,1,0,0,0,0,0,0
+2618,Kyona Alhjra - كيونا الهجرة,5.3,89.0,Makkah,0,0,0,0,0,1,0,0,0
+2620,Address Jabal Omar Makkah,9.1,614.0,Makkah,0,0,0,0,1,0,0,0,0
+2621,Makkah Clock Royal Tower A Fairmont Hotel,8.2,919.0,Makkah,0,0,0,0,1,0,0,0,0
+2623,Anjum Hotel Makkah,8.5,645.0,Makkah,0,0,0,0,1,0,0,0,0
+2624,Mercure Makkah Aziziah,8.3,140.0,Makkah,0,0,0,0,1,0,0,0,0
+2625,Hilton Makkah Convention Hotel,8.2,687.0,Makkah,0,0,0,0,1,0,0,0,0
+2628,Raffles Makkah Palace,8.7,1662.0,Makkah,0,0,0,0,1,0,0,0,0
+2629,Al Hidayah Towers,8.1,106.0,Makkah,0,0,0,0,0,0,0,0,0
+2632,Makkah Clock Royal Tower A Fairmont Hotel,8.2,1364.0,Makkah,0,0,0,0,1,0,0,0,0
+2633,Swissôtel Makkah,8.5,878.0,Makkah,0,0,0,0,1,0,0,0,0
+2634,Anjum Hotel Makkah,8.5,704.0,Makkah,0,0,0,0,1,0,0,0,0
+2636,Millennium & Copthorne Makkah Al Naseem,7.8,184.0,Makkah,0,0,0,0,1,0,0,0,0
+2639,Address Jabal Omar Makkah,9.1,686.0,Makkah,0,0,0,0,1,0,0,0,0
+2641,Anjum Hotel Makkah,8.5,751.0,Makkah,0,0,0,0,1,0,0,0,0
+2643,Hilton Makkah Convention Hotel,8.2,867.0,Makkah,0,0,0,0,1,0,0,0,0
+2646,Swissotel Al Maqam Makkah,8.1,729.0,Makkah,0,0,0,0,1,0,0,0,0
+2650,Sheraton Makkah Jabal Al Kaaba,8.2,635.0,Makkah,0,0,0,0,1,0,0,0,0
+2651,Doubletree By Hilton Makkah Jabal Omar,8.5,623.0,Makkah,0,0,0,0,1,0,0,0,0
+2656,"Jabal Omar Marriott Hotel, Makkah",8.4,540.0,Makkah,0,0,0,0,0,0,0,0,0
+2658,Hilton Suites Makkah,8.5,792.0,Makkah,0,0,0,0,1,0,0,0,0
+2659,Copthorne Makkah Al Nasseem,7.7,269.0,Makkah,0,0,0,0,1,0,0,0,0
+2660,Jumeirah Jabal Omar Makkah,9.0,933.0,Makkah,0,0,0,0,1,0,0,1,0
+2666,Emaar Al Khlil,6.2,176.0,Makkah,0,0,0,0,0,1,0,0,0
+2673,Swissôtel Makkah,8.5,1152.0,Makkah,0,0,0,0,1,0,0,0,0
+2679,Mercure Makkah Aziziah,8.3,142.0,Makkah,0,0,0,0,1,0,0,0,0
+2683,Makkah Clock Royal Tower A Fairmont Hotel,8.2,955.0,Makkah,0,0,0,0,1,0,0,0,0
+2684,Hilton Makkah Convention Hotel,8.2,731.0,Makkah,0,0,0,0,1,0,0,0,0
+2685,Millennium & Copthorne Makkah Al Naseem,7.8,281.0,Makkah,0,0,0,0,1,0,0,0,0
+2689,Hilton Makkah Convention Hotel,8.2,795.0,Makkah,0,0,0,0,1,0,0,0,0
+2690,Millennium & Copthorne Makkah Al Naseem,7.8,125.0,Makkah,0,0,0,0,1,0,0,0,0
+2692,Anjum Hotel Makkah,8.5,1252.0,Makkah,0,0,0,0,1,0,0,0,0
+2698,Makkah Clock Royal Tower A Fairmont Hotel,8.2,1002.0,Makkah,0,0,0,0,1,0,0,0,0
+2699,Swissôtel Makkah,8.5,1250.0,Makkah,0,0,0,0,1,0,0,0,0
+2700,Anjum Hotel Makkah,8.5,1151.0,Makkah,0,0,0,0,1,0,0,0,0
+2702,Hilton Makkah Convention Hotel,8.2,739.0,Makkah,0,0,0,0,1,0,0,0,0
+2705,Shaza Makkah,8.5,909.0,Makkah,0,0,0,0,1,0,0,0,0
+2706,Park Inn by Radisson Makkah Aziziyah,8.3,172.0,Makkah,0,0,0,1,1,0,0,0,0
+2707,Raffles Makkah Palace,8.7,1756.0,Makkah,0,0,0,0,1,0,0,0,0
+2711,Conrad Makkah,8.6,924.0,Makkah,0,0,0,0,1,1,0,0,0
+2712,Hotel 21,8.2,116.0,Makkah,0,0,0,0,1,0,0,0,0
+2714,Yasmin Al Majd Hotel,8.1,223.0,Makkah,0,0,1,0,0,0,0,0,0
+2715,Emaar Legend,8.0,86.0,Makkah,0,0,0,0,0,0,0,0,0
+2716,Saif Al Majd Hotel,7.3,140.0,Makkah,0,0,0,0,0,0,0,0,0
+2718,OYO 403 Hidaya Towers Hotel,8.0,83.0,Makkah,0,0,0,0,1,0,0,0,0
+2719,"Jabal Omar Marriott Hotel, Makkah",8.4,585.0,Makkah,0,0,0,0,0,0,0,0,0
+2722,Jumeirah Jabal Omar Makkah,9.0,850.0,Makkah,0,0,0,0,1,0,0,1,0
+2724,Midan Hotel,8.3,120.0,Makkah,0,0,0,0,1,1,0,0,0
+2727,Le Méridien Makkah,7.9,450.0,Makkah,0,0,0,0,1,1,0,0,0
+2728,Wirgan Hotel Al Azizyah,8.9,10263.0,Makkah,0,0,0,0,1,0,0,0,0
+2730,Makarem Al Bait Hotel,6.8,119.0,Makkah,0,0,0,0,0,1,0,0,0
+2731,Reefaf Alhaya Hotel,7.4,158.0,Makkah,0,0,0,0,0,1,0,0,0
+2732,Blue Coral Hotel,7.8,153.0,Makkah,0,0,0,0,1,0,0,0,0
+2733,Al Shahba Hotel Makkah,7.3,114.0,Makkah,0,0,0,0,1,1,0,0,0
+2736,Swissotel Al Maqam Makkah,8.1,677.0,Makkah,0,0,0,0,1,0,0,0,0
+2745,Al Ebaa Hotel,8.0,265.0,Makkah,0,0,0,0,1,0,0,0,0
+2749,Anjum Hotel Makkah,8.5,1157.0,Makkah,0,0,0,0,1,0,0,0,0
+2755,Al Tawfiq Plaza Hotel,6.0,1500.0,Makkah,0,0,1,0,0,1,0,0,0
+2760,Doubletree By Hilton Makkah Jabal Omar,8.5,627.0,Makkah,0,0,0,0,1,0,0,0,0
+2762,Movenpick Hotel And Residences Hajar Tower Makkah,8.0,1028.0,Makkah,0,0,0,0,1,0,0,0,0
+2763,Emaar Elite Hotel,7.9,266.0,Makkah,0,0,1,0,0,0,0,0,0
+2764,Le Méridien Towers Makkah,7.8,250.0,Makkah,0,0,0,0,1,1,0,0,0
+2765,Midan Hotel,8.3,118.0,Makkah,0,0,0,0,1,1,0,0,0
+2769,Makkah Hotel,8.8,924.0,Makkah,0,0,0,0,0,1,0,0,0
+2770,Emaar Al Manar,7.7,227.0,Makkah,0,0,1,0,0,0,0,0,0
+2772,Yasmin Al Majd,8.0,189.0,Makkah,0,0,1,0,0,0,0,0,0
+2774,Qasr Lazurd,7.2,133.0,Taif,0,0,0,0,0,0,0,1,0
+2775,Platinum Park,7.4,197.0,Taif,0,0,0,0,1,0,0,0,0
+2776,Iris Boutique Taif Heart,8.4,333.0,Taif,0,0,0,0,1,0,0,0,0
+2777,Boudl Taif,7.9,344.0,Taif,0,0,0,0,0,1,0,0,0
+2778,OYO 176 Hotel Safari Al Hada,5.4,512.0,Taif,0,0,0,0,0,0,0,0,0
+2779,Awaliv International Hotel,8.4,491.0,Taif,0,0,0,0,0,0,0,1,0
+2780,Platinum Alkhamseen,8.0,243.0,Taif,0,0,0,0,0,0,0,1,0
+2781,Meral Oasis Resort Taif,8.4,3166.0,Taif,0,0,0,0,0,0,0,1,0
+2782,Velar Inn Hotel,9.0,649.0,Taif,0,0,0,0,0,0,0,1,0
+2783,Gardens View Aparthotel,7.4,220.0,Taif,0,0,0,0,0,1,0,0,0
+2784,Fakhamet Al Taif Hotel Apartments 1,7.4,149.0,Taif,0,0,0,0,0,1,0,0,0
+2785,InterContinental TAIF,8.4,820.0,Taif,0,0,0,0,0,0,0,1,0
+2786,Seven Garden's Palace,9.4,465.0,Taif,0,0,0,0,0,0,0,0,0
+2787,Remaj Hotel,8.6,295.0,Taif,0,0,0,1,0,1,0,0,0
+2789,Platinum Park,7.4,193.0,Taif,0,0,0,0,1,0,0,0,0
+2790,Iris Boutique Taif Heart,8.4,339.0,Taif,0,0,0,0,1,0,0,0,0
+2793,Awaliv International Hotel,8.4,477.0,Taif,0,0,0,0,0,0,0,1,0
+2794,Platinum Alkhamseen,8.0,242.0,Taif,0,0,0,0,0,0,0,1,0
+2795,Meral Oasis Resort Taif,8.4,3214.0,Taif,0,0,0,0,0,0,0,1,0
+2798,Fakhamet Al Taif Hotel Apartments 1,7.4,151.0,Taif,0,0,0,0,0,1,0,0,0
+2799,InterContinental TAIF,8.4,607.0,Taif,0,0,0,0,0,0,0,1,0
+2803,Platinum Park,7.4,202.0,Taif,0,0,0,0,1,0,0,0,0
+2804,Iris Boutique Taif Heart,8.4,380.0,Taif,0,0,0,0,1,0,0,0,0
+2807,Awaliv International Hotel,8.4,563.0,Taif,0,0,0,0,0,0,0,1,0
+2808,Platinum Alkhamseen,8.0,240.0,Taif,0,0,0,0,0,0,0,1,0
+2809,Meral Oasis Resort Taif,8.4,3599.0,Taif,0,0,0,0,0,0,0,1,0
+2810,Velar Inn Hotel,9.0,646.0,Taif,0,0,0,0,0,0,0,1,0
+2812,Fakhamet Al Taif Hotel Apartments 1,7.4,169.0,Taif,0,0,0,0,0,1,0,0,0
+2814,Seven Garden's Palace,9.4,463.0,Taif,0,0,0,0,0,0,0,0,0
+2817,Platinum Park,7.4,195.0,Taif,0,0,0,0,1,0,0,0,0
+2818,Iris Boutique Taif Heart,8.4,327.0,Taif,0,0,0,0,1,0,0,0,0
+2821,Awaliv International Hotel,8.4,510.0,Taif,0,0,0,0,0,0,0,1,0
+2823,Meral Oasis Resort Taif,8.4,3117.0,Taif,0,0,0,0,0,0,0,1,0
+2824,Velar Inn Hotel,9.0,574.0,Taif,0,0,0,0,0,0,0,1,0
+2826,Fakhamet Al Taif Hotel Apartments 1,7.4,147.0,Taif,0,0,0,0,0,1,0,0,0
+2828,Seven Garden's Palace,9.4,413.0,Taif,0,0,0,0,0,0,0,0,0
+2829,Remaj Hotel,8.6,318.0,Taif,0,0,0,1,0,1,0,0,0
+2832,Iris Boutique Taif Heart,8.4,311.0,Taif,0,0,0,0,1,0,0,0,0
+2837,Meral Oasis Resort Taif,8.4,3012.0,Taif,0,0,0,0,0,0,0,1,0
+2838,Velar Inn Hotel,9.0,645.0,Taif,0,0,0,0,0,0,0,1,0
+2840,Fakhamet Al Taif Hotel Apartments 1,7.4,142.0,Taif,0,0,0,0,0,1,0,0,0
+2850,Platinum Alkhamseen,8.0,238.0,Taif,0,0,0,0,0,0,0,1,0
+2852,Velar Inn Hotel,9.0,642.0,Taif,0,0,0,0,0,0,0,1,0
+2858,Remaj Hotel,8.6,235.0,Taif,0,0,0,1,0,1,0,0,0
+2860,Platinum Park,7.4,290.0,Taif,0,0,0,0,1,0,0,0,0
+2862,Boudl Taif,7.9,333.0,Taif,0,0,0,0,0,1,0,0,0
+2865,Platinum Alkhamseen,8.0,400.0,Taif,0,0,0,0,0,0,0,1,0
+2875,Platinum Park,7.4,370.0,Taif,0,0,0,0,1,0,0,0,0
+2885,InterContinental TAIF,8.4,819.0,Taif,0,0,0,0,0,0,0,1,0
+2896,Velar Inn Hotel,9.0,658.0,Taif,0,0,0,0,0,0,0,1,0
+2903,Platinum Park,7.4,194.0,Taif,0,0,0,0,1,0,0,0,0
+2907,Awaliv International Hotel,8.4,492.0,Taif,0,0,0,0,0,0,0,1,0
+2910,Velar Inn Hotel,9.0,644.0,Taif,0,0,0,0,0,0,0,1,0
+2914,Seven Garden's Palace,9.4,464.0,Taif,0,0,0,0,0,0,0,0,0
+2916,Braira Dammam Hotel,8.8,326.0,Damamm,0,0,0,0,0,0,0,0,0
+2917,Wyndham Garden Dammam,8.3,288.0,Damamm,0,0,0,0,1,0,0,0,0
+2918,Al Eairy Furnished Apartments Dammam 7,6.6,148.0,Damamm,0,0,0,0,0,0,0,0,0
+2919,Sheraton Dammam Hotel & Convention Centre,7.7,338.0,Damamm,0,0,0,0,1,0,0,1,0
+2920,Golden Tulip Dammam Corniche Hotel,7.8,264.0,Damamm,0,0,0,0,0,0,0,1,0
+2921,Boudl Al Shatea,8.1,214.0,Damamm,0,0,0,0,0,0,0,1,0
+2922,Al Eairy Furnished Apartments Dammam 3,5.0,145.0,Damamm,0,0,1,0,0,0,0,0,0
+2923,La Rive Hotels & Suites,7.2,252.0,Damamm,0,0,0,0,0,0,0,1,0
+2924,Dammam Palace,7.3,267.0,Damamm,0,0,0,0,1,0,0,0,0
+2925,Terrace View 3 - Hotel Apartments,7.9,213.0,Damamm,0,0,0,0,0,0,0,1,0
+2927,Ramada by Wyndham Dammam Khaleej Road,6.8,266.0,Damamm,0,0,0,0,0,0,0,1,0
+2929,Al Eairy Furnished Apartments Dammam 3,5.0,137.0,Damamm,0,0,1,0,0,0,0,0,0
+2930,Dana Rayhaan by Rotana,9.0,567.0,Damamm,0,0,0,0,0,0,0,1,0
+2931,Boudl Al Corniche,9.1,243.0,Damamm,0,0,0,0,0,0,0,1,0
+2932,Dammam Palace,7.3,270.0,Damamm,0,0,0,0,1,0,0,0,0
+2933,Naviti Warwick Dammam,8.3,264.0,Damamm,0,0,0,0,0,0,0,0,0
+2935,Park Inn By Radisson Dammam,8.4,497.0,Damamm,0,0,0,0,1,1,0,0,0
+2936,Lina Park 2,7.5,671.0,Damamm,0,0,0,0,1,0,0,0,0
+2937,Normina Hotel Suites,9.1,813.0,Damamm,0,0,0,0,0,0,0,0,0
+2938,Maskan Al Dyafah Hotel Apartments 2,8.1,167.0,Damamm,0,0,0,0,0,1,0,0,0
+2939,Swiss International Al Hamra Dammam,7.6,244.0,Damamm,0,0,0,0,1,0,0,0,0
+2940,Tripper Inn,8.6,287.0,Damamm,0,0,0,0,0,0,0,1,0
+2941,City Residence Hotel Suites,8.3,839.0,Damamm,0,0,0,0,0,0,0,1,0
+2942,Maskan Al Dyafah Apartment,7.9,180.0,Damamm,0,0,0,0,0,1,0,0,0
+2943,The Gate Hotel and Apartments,9.1,372.0,Damamm,0,0,0,0,1,0,0,0,0
+2944,The Address Palace Apartments,9.1,361.0,Damamm,0,0,0,0,0,0,0,1,0
+2945,Shally Village,7.9,370.0,Damamm,0,0,0,0,0,0,0,1,0
+2946,Holiday Apartments for Residential Units,7.2,250.0,Damamm,0,0,0,0,0,0,0,0,0
+2947,Maskan AlMadinah,8.0,237.0,Damamm,0,0,1,0,0,1,0,0,0
+2948,Braira Dammam Hotel,8.8,318.0,Damamm,0,0,0,0,0,0,0,0,0
+2950,Ramada by Wyndham Dammam Khaleej Road,6.8,303.0,Damamm,0,0,0,0,0,0,0,1,0
+2951,Sheraton Dammam Hotel & Convention Centre,7.7,509.0,Damamm,0,0,0,0,1,0,0,1,0
+2953,La Rive Hotels & Suites,7.2,137.0,Damamm,0,0,0,0,0,0,0,1,0
+2954,Dammam Palace,7.3,268.0,Damamm,0,0,0,0,1,0,0,0,0
+2956,Novotel Dammam Business Park,7.3,359.0,Damamm,0,0,0,0,1,0,0,1,0
+2960,Lina Park 2,7.5,237.0,Damamm,0,0,0,0,1,0,0,0,0
+2962,Maskan Al Dyafah Hotel Apartments 2,8.1,173.0,Damamm,0,0,0,0,0,1,0,0,0
+2963,Residence Inn Dammam,8.9,351.0,Damamm,0,0,0,0,0,0,0,1,0
+2964,Swiss International Al Hamra Dammam,7.6,227.0,Damamm,0,0,0,0,1,0,0,0,0
+2965,Tripper Inn,8.6,258.0,Damamm,0,0,0,0,0,0,0,1,0
+2966,City Residence Hotel Suites,8.3,855.0,Damamm,0,0,0,0,0,0,0,1,0
+2967,Radisson Hotel & Apartments Dammam Industry City,7.9,342.0,Damamm,0,0,0,0,0,0,0,1,0
+2968,The Address Palace Apartments,9.1,395.0,Damamm,0,0,0,0,0,0,0,1,0
+2969,Swiss Spirit Second Dammam Industrial City سويس سبيريت المدينة الصناعية الثانية بالدمام,7.8,217.0,Damamm,0,0,0,0,1,0,0,0,0
+2970,Braira Dammam Hotel,8.8,325.0,Damamm,0,0,0,0,0,0,0,0,0
+2977,Al Eairy Furnished Apartments Dammam 3,5.0,147.0,Damamm,0,0,1,0,0,0,0,0,0
+2979,La Rive Hotels & Suites,7.2,142.0,Damamm,0,0,0,0,0,0,0,1,0
+2980,Howard Johnson Dammam Hotel,7.5,281.0,Damamm,0,0,0,0,0,0,0,1,0
+2982,Swiss Spirit Hotel & Suites Dammam Corniche,8.7,245.0,Damamm,0,0,0,0,1,0,0,0,0
+2983,Naviti Warwick Dammam,8.3,271.0,Damamm,0,0,0,0,0,0,0,0,0
+2985,Novotel Dammam Business Park,7.3,346.0,Damamm,0,0,0,0,1,0,0,1,0
+2987,TIME Dammam Residence,7.8,10387.0,Damamm,0,0,1,0,0,0,0,0,0
+2991,Swiss International Al Hamra Dammam,7.6,233.0,Damamm,0,0,0,0,1,0,0,0,0
+2992,City Residence Hotel Suites,8.3,852.0,Damamm,0,0,0,0,0,0,0,1,0
+2993,S Maskan Hotel,8.1,237.0,Damamm,0,0,0,0,0,1,0,0,0
+2995,The Gate Hotel and Apartments,9.1,404.0,Damamm,0,0,0,0,1,0,0,0,0
+2996,The Address Palace Apartments,9.1,404.0,Damamm,0,0,0,0,0,0,0,1,0
+2997,Boudl Corniche Hotel,8.3,258.0,Damamm,0,0,0,0,1,0,0,0,0
+2998,View Rose Apartment,7.5,312.0,Damamm,0,0,0,0,0,0,0,0,0
+3003,Maskan Al Dyafah Hotel Apartments 2,8.1,168.0,Damamm,0,0,0,0,0,1,0,0,0
+3004,Swat Furnished Apartment,8.0,177.0,Damamm,0,0,1,0,0,0,0,0,0
+3006,Tripper Inn,8.6,252.0,Damamm,0,0,0,0,0,0,0,1,0
+3009,Terrace View 3 - Hotel Apartments,7.9,261.0,Damamm,0,0,0,0,0,0,0,1,0
+3011,Dana Rayhaan by Rotana,9.0,367.0,Damamm,0,0,0,0,0,0,0,1,0
+3015,Al Eairy Furnished Apartments Dammam 3,5.0,138.0,Damamm,0,0,1,0,0,0,0,0,0
+3016,TIME Dammam Residence,7.8,266.0,Damamm,0,0,1,0,0,0,0,0,0
+3017,Dammam Palace,7.3,317.0,Damamm,0,0,0,0,1,0,0,0,0
+3018,Swiss Spirit Hotel & Suites Dammam Corniche,8.7,221.0,Damamm,0,0,0,0,1,0,0,0,0
+3020,Radisson Hotel & Apartments Dammam Industry City,7.9,329.0,Damamm,0,0,0,0,0,0,0,1,0
+3022,Braira Dammam Hotel,8.8,322.0,Damamm,0,0,0,0,0,0,0,0,0
+3025,Al Eairy Furnished Apartments Dammam 3,5.0,143.0,Damamm,0,0,1,0,0,0,0,0,0
+3027,La Rive Hotels & Suites,7.2,152.0,Damamm,0,0,0,0,0,0,0,1,0
+3030,Tripper Inn,8.6,301.0,Damamm,0,0,0,0,0,0,0,1,0
+3037,The Address Palace Apartments,9.1,413.0,Damamm,0,0,0,0,0,0,0,1,0
+3046,Golden Tulip Dammam Corniche Hotel,7.8,255.0,Damamm,0,0,0,0,0,0,0,1,0
+3048,Boudl Al Corniche,9.1,292.0,Damamm,0,0,0,0,0,0,0,1,0
+3049,Swiss Spirit Hotel & Suites Dammam Corniche,8.7,241.0,Damamm,0,0,0,0,1,0,0,0,0
+3050,Naviti Warwick Dammam,8.3,323.0,Damamm,0,0,0,0,0,0,0,0,0
+3051,Park Inn By Radisson Dammam,8.4,315.0,Damamm,0,0,0,0,1,1,0,0,0
+3052,Maskan Al Dyafah Hotel Apartments 2,8.1,179.0,Damamm,0,0,0,0,0,1,0,0,0
+3053,Tripper Inn,8.6,268.0,Damamm,0,0,0,0,0,0,0,1,0
+3054,Radisson Hotel & Apartments Dammam Industry City,7.9,339.0,Damamm,0,0,0,0,0,0,0,1,0
+3065,La Rive Hotels & Suites,7.2,154.0,Damamm,0,0,0,0,0,0,0,1,0
+3067,Naviti Warwick Dammam,8.3,270.0,Damamm,0,0,0,0,0,0,0,0,0
+3069,Maskan Al Dyafah Hotel Apartments 2,8.1,176.0,Damamm,0,0,0,0,0,1,0,0,0
+3070,Swiss International Al Hamra Dammam,7.6,231.0,Damamm,0,0,0,0,1,0,0,0,0
+3071,Tripper Inn,8.6,307.0,Damamm,0,0,0,0,0,0,0,1,0
+3073,Radisson Hotel & Apartments Dammam Industry City,7.9,333.0,Damamm,0,0,0,0,0,0,0,1,0
+3075,The Gate Hotel and Apartments,9.1,405.0,Damamm,0,0,0,0,1,0,0,0,0
+3076,The Address Palace Apartments,9.1,392.0,Damamm,0,0,0,0,0,0,0,1,0
+3085,Sheraton Dammam Hotel & Convention Centre,7.7,543.0,Damamm,0,0,0,0,1,0,0,1,0
+3098,Novotel Dammam Business Park,7.3,334.0,Damamm,0,0,0,0,1,0,0,1,0
+3099,Boudl Al Corniche,9.1,244.0,Damamm,0,0,0,0,0,0,0,1,0
+3112,View Rose Apartment,7.5,336.0,Damamm,0,0,0,0,0,0,0,0,0
+3117,Sheraton Dammam Hotel & Convention Centre,7.7,360.0,Damamm,0,0,0,0,1,0,0,1,0
+3122,La Rive Hotels & Suites,7.2,303.0,Damamm,0,0,0,0,0,0,0,1,0
+3124,Dammam Palace,7.3,269.0,Damamm,0,0,0,0,1,0,0,0,0
+3148,Ramada by Wyndham Dammam Khaleej Road,6.8,241.0,Damamm,0,0,0,0,0,0,0,1,0
+3150,Dana Rayhaan by Rotana,9.0,393.0,Damamm,0,0,0,0,0,0,0,1,0
+3151,La Rive Hotels & Suites,7.2,271.0,Damamm,0,0,0,0,0,0,0,1,0
+3153,Naviti Warwick Dammam,8.3,267.0,Damamm,0,0,0,0,0,0,0,0,0
+3155,Swiss International Al Hamra Dammam,7.6,232.0,Damamm,0,0,0,0,1,0,0,0,0
+3156,City Residence Hotel Suites,8.3,841.0,Damamm,0,0,0,0,0,0,0,1,0
+3157,Radisson Hotel & Apartments Dammam Industry City,7.9,340.0,Damamm,0,0,0,0,0,0,0,1,0
+3161,Swiss Spirit Second Dammam Industrial City سويس سبيريت المدينة الصناعية الثانية بالدمام,7.8,238.0,Damamm,0,0,0,0,1,0,0,0,0
+3163,Braira Dammam Hotel,8.8,315.0,Damamm,0,0,0,0,0,0,0,0,0
+3170,Al Eairy Furnished Apartments Dammam 3,5.0,148.0,Damamm,0,0,1,0,0,0,0,0,0
+3174,Naviti Warwick Dammam,8.3,266.0,Damamm,0,0,0,0,0,0,0,0,0
+3176,Novotel Dammam Business Park,7.3,354.0,Damamm,0,0,0,0,1,0,0,1,0
+3178,TIME Dammam Residence,7.8,315.0,Damamm,0,0,1,0,0,0,0,0,0
+3179,Normina Hotel Suites,9.1,826.0,Damamm,0,0,0,0,0,0,0,0,0
+3180,Maskan Al Dyafah Hotel Apartments 2,8.1,180.0,Damamm,0,0,0,0,0,1,0,0,0
+3181,Residence Inn Dammam,8.9,390.0,Damamm,0,0,0,0,0,0,0,1,0
+3184,Tripper Inn,8.6,300.0,Damamm,0,0,0,0,0,0,0,1,0
+3197,Grand Millennium Gizan,8.1,1120.0,Jazan,0,0,0,0,0,0,0,1,0
+3198,"Radisson Blu Resort, Jizan",8.0,601.0,Jazan,0,0,0,0,1,0,0,1,0
+3199,Golden Armada Hotel,8.9,170.0,Jazan,0,0,0,0,0,0,0,1,0
+3201,Novotel Jazan,8.7,495.0,Jazan,0,0,0,0,1,0,0,1,0
+3203,Jazan Inn,8.3,269.0,Jazan,0,0,0,0,1,0,0,0,0
+3204,Grand Millennium Gizan,8.1,633.0,Jazan,0,0,0,0,0,0,0,1,0
+3205,"Radisson Blu Resort, Jizan",8.0,612.0,Jazan,0,0,0,0,1,0,0,1,0
+3207,Jazan Inn,8.3,268.0,Jazan,0,0,0,0,1,0,0,0,0
+3208,Novotel Jazan,8.7,468.0,Jazan,0,0,0,0,1,0,0,1,0
+3209,"Radisson Blu Resort, Jizan",8.0,589.0,Jazan,0,0,0,0,1,0,0,1,0
+3210,Jazan Inn,8.3,261.0,Jazan,0,0,0,0,1,0,0,0,0
+3212,Novotel Jazan,8.7,476.0,Jazan,0,0,0,0,1,0,0,1,0
+3214,Grand Millennium Gizan,8.1,822.0,Jazan,0,0,0,0,0,0,0,1,0
+3217,Jazan Inn,8.3,258.0,Jazan,0,0,0,0,1,0,0,0,0
+3218,Iris Boutique Ash Shati Jizan,8.5,320.0,Jazan,0,0,0,0,1,0,0,0,0
+3219,Quba Hotel,8.9,310.0,Jazan,0,0,0,0,0,1,0,0,0
+3220,Park Jizan Hotel,8.1,232.0,Jazan,0,0,0,0,1,0,0,0,0
+3221,Residence Inn Jazan,7.4,495.0,Jazan,0,0,0,0,1,1,0,0,0
+3222,Al Sultan Hostel,8.7,330.0,Jazan,0,0,0,0,1,0,0,0,0
+3223,Jizan Park Hotel,7.8,349.0,Jazan,0,0,0,0,0,0,0,0,0
+3224,Msharef Al Moden Suites - Jazan,9.1,398.0,Jazan,0,0,0,0,0,0,0,0,0
+3225,Al Dar Hotel Apartments,7.3,178.0,Jazan,0,0,0,0,0,1,0,0,0
+3226,Courtyard Jazan,8.5,450.0,Jazan,0,0,0,0,0,0,0,1,0
